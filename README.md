@@ -1,7 +1,11 @@
-
+<p align="center">  
+  <img src="https://user-images.githubusercontent.com/62854582/164060580-3fda5f97-c952-41f3-aea1-43b30f48e8a3.png" width="400"/>  
+</p>
 <p align="center">  
   <img src="https://user-images.githubusercontent.com/62854582/164056911-da4a19c8-fc3c-45bd-b51c-186f05931f83.png" width="400"/>  
-</p>
+</p>  
+  
+  
            
 # FLSUN-SR FIRMWARE  
 
