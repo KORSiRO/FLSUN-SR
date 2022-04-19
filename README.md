@@ -62,4 +62,14 @@ et les modifier :
 
 **PS** : `U1`permet d'envoyer à la carte mère les nouvelles valeurs du PID
 
+**3. Extrudeur :**
+
+Depuis la `Console`sur l'écran de la SR on envoie les commandes :  
+
+`M302 S0` (pour pouvoir extruder à froid)  
+`M83` (pour passer en mode relatif)  
+`G1 E100` (pour extruder 100mm)  
+
+On mesure la distance extrudée et on fait le calcul : 
+`(longueur demandée / longeur mesuréee) x steps actuels = nouveaux steps`
 
