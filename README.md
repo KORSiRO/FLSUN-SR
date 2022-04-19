@@ -107,15 +107,23 @@ Si besoin se référer au document `Delta Calibration Calculator
   * Configuration_adv.h : `//#define USB_FLASH_DRIVE_SUPPORT`                                                                                                                                     `//#define USE_OTG_USB_HOST`
 
 - Utilisation du **port USB** :
-  * Configuration_adv.h : `#define USB_FLASH_DRIVE_SUPPORT` `#define USE_OTG_USB_HOST`
+  * Configuration_adv.h :  
+  `#define USB_FLASH_DRIVE_SUPPORT`  
+  `#define USE_OTG_USB_HOST`
 
 - Utilisation **OMG-V2-S EXTRUDEUR (BOWDEN)** :  
-  * Configuration.h : `#define DEFAULT_AXIS_STEPS_PER_UNIT { 80, 80, 80, 385 }` `#define INVERT_E0_DIR true`  
-  * Configuration_adv.h : `#define E0_CURRENT 1050`  
+  * Configuration.h :  
+  `#define DEFAULT_AXIS_STEPS_PER_UNIT { 80, 80, 80, 385 }`  
+  `#define INVERT_E0_DIR true`  
+  * Configuration_adv.h :  
+  `#define E0_CURRENT 1050`  
 
 - Utilisation **BONDTECH LGX EXTRUDEUR (BOWDEN)** :
-  * Configuration.h : `#define DEFAULT_AXIS_STEPS_PER_UNIT { 80, 80, 80, 400 }` `#define INVERT_E0_DIR false`  
-  * Configuration_adv.h : `#define E0_CURRENT 650`
+  * Configuration.h :  
+  `#define DEFAULT_AXIS_STEPS_PER_UNIT { 80, 80, 80, 400 }`  
+  `#define INVERT_E0_DIR false`  
+  * Configuration_adv.h :  
+  `#define E0_CURRENT 650`
 
 - Utilisation **BONDTECH LGX LITE EXTRUDEUR (DIRECT DRIVE)** :
   * Configuration.h :  
