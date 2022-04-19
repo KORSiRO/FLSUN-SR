@@ -1,4 +1,4 @@
-# FLSUN-SR
+# FLSUN-SR FIRMWARE
 
 **1. Upgrade firmware FLSUN SR**
 
