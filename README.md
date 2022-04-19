@@ -1,8 +1,8 @@
 # FLSUN-SR FIRMWARE
 
-- [Télécharger firmware 1.4 SD](https://github.com/KORSiRO/FLSUN-SR/tree/main/Firmware%201.4/Firmware%201.4%20NanoV3-TFcard)
-- [Télécharger firmware 1.4 USB](https://github.com/KORSiRO/FLSUN-SR/tree/main/Firmware%201.4/Firmware%201.4%20NanoV3-Udisk)
-- [Télécharger firmware SCREEN](https://github.com/KORSiRO/FLSUN-SR/tree/main/Firmware%201.4/Firmware%201.4%20Screen/DWIN_SET)
+- [Télécharger firmware 1.4 SD](https://github.com/KORSiRO/FLSUN-SR/raw/main/Firmware%201.4/Firmware%201.4%20NanoV3-TFcard/Robin_nano_v3.bin)
+- [Télécharger firmware 1.4 USB](https://github.com/KORSiRO/FLSUN-SR/raw/main/Firmware%201.4/Firmware%201.4%20NanoV3-Udisk/Robin_nano_v3.bin)
+- [Télécharger firmware SCREEN](https://github.com/KORSiRO/FLSUN-SR/raw/main/Firmware%201.4/Firmware%201.4%20Screen/DWIN_SET.zip)
 
 **1. Upgrade firmware FLSUN SR :**
 
