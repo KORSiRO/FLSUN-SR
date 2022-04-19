@@ -26,6 +26,12 @@
 
 - Créer un fichier texte que l'on appellera `PID Buse.gcode`
 - Intégrer dans ce fichier : `M303 E0 S210 C10 U1`
+- Noter ensuite les paramètres visible sur l'écran dans le menu `EEPROM` de la SR
+- Imprimer le fichier `PID Buse.gcode` ou `PID Bed.gcode`, l'écran indique "impression terminée".
+- La température de la buse va monter (PID en cours)
+- Le PID est terminé quand la température est descendu à ~ 20° en dessous de la valeur `S` de départ
+- On retourne dans le menu `EEPROM` et on vérifie que les données ont bien été modifiées
+- On se rend dans `Console`sur l'écran de la SR et on rentre un `M500`pour sauvegarder les nouvelles valeurs
 
 **2. PID Bed (firmware 1.4) :**
 
