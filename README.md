@@ -129,7 +129,7 @@ Si besoin se référer au document `Delta Calibration Calculator
   `#define DEFAULT_YJERK 10.0`  
   `#define DEFAULT_ZJERK 10.0`  
   `#define DEFAULT_EJERK 2.5`  
-* Configuration_adv.h :  
+  * Configuration_adv.h :  
   `#define E0_CURRENT 650`  
   `#define FILAMENT_CHANGE_UNLOAD_LENGTH 70`  
   `#define FILAMENT_CHANGE_FAST_LOAD_LENGTH 70`  
