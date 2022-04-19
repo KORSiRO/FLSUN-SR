@@ -9,21 +9,24 @@
            
 # FLSUN-SR FIRMWARE  
 
-
 - [Télécharger firmware 1.4 SD](https://github.com/KORSiRO/FLSUN-SR/raw/main/Firmware%201.4/Firmware%201.4%20NanoV3-TFcard/Robin_nano_v3.bin)
 - [Télécharger firmware 1.4 USB](https://github.com/KORSiRO/FLSUN-SR/raw/main/Firmware%201.4/Firmware%201.4%20NanoV3-Udisk/Robin_nano_v3.bin)
 - [Télécharger firmware SCREEN](https://github.com/KORSiRO/FLSUN-SR/raw/main/Firmware%201.4/Firmware%201.4%20Screen/DWIN_SET.zip)
+- [Vidéo MAJ Firmware v1.3/v1.4](https://www.youtube.com/watch?v=-RFSyTZ_7P0&ab_channel=FLSUN)
 
-[Vidéo MAJ Firmware v1.3/v1.4](https://www.youtube.com/watch?v=-RFSyTZ_7P0&ab_channel=FLSUN)
-  
-  ### 1. Upgrade firmware FLSUN SR :  
+### Installation firmware MKS Robin Nano v3 :
 
+- Faire un `Reset EEPROM` avant de flasher le nouveau firmware : `M502` suivi de `M500` (depuis un termnial ou depuis l'écran de la SR)
+- Choisir le `Firmware`en suivant les liens ci-dessus
 - Formater une `carte SD` ou une `clé USB` en `FAT32 4096 octets`  
-- Copier le fichier `Robin_nano_v3.bin` à la racine de la carte SD/clé USB  
-- Connecter la carte SD/clé usb à l'imprimante et l'allumer  
-- Attendre la fin de la MAJ
+- Copier le fichier `Robin_nano_v3.bin` à la racine de la carte SD/clé USB 
+- Connecter la carte SD/clé usb à l'imprimante et l'allumer 
+- Attendre quelques secondes que l'écran arrive à l'accueil
+- Vérifier sur la `carte SD` que le fichier `Robin_nano_v3.bin` a été renommé en `ROBIN_NANO_V3.CUR` (flash réussi)
+- Faire de nouveau un `Reset EEPROM` avec `M502` suivi de `M500` (depuis un termnial ou depuis l'écran de la SR)
+- Redémarrer l'imprimante
 
-### 2. Upgrade firmware Screen FLSUN SR :
+### 2. Installation firmware écran FLSUN SR :
 
 - Formater une `carte SD` en `FAT32 4096 octets`  
 - Copier le dossier `DWIN_SET` à la racine de la carte SD  
@@ -86,6 +89,15 @@ On mesure la distance extrudée et on fait le calcul :
 ### 4. Delta Calibration :
 
 <img src="https://user-images.githubusercontent.com/62854582/164052174-66a85777-bf06-4e9e-a63b-a6fb0d2b1a4f.png" width="350">
+
+- Connecter la sonde pour le leveling
+- Lancer la commande `G33`
+- Attendre la fin et enregistrer avec la commande `M500`
+- Faire un `Leveling` depuis l'écran de la SR
+- Régler le `Z Offset`
+- Sauvegarder avec la commande `M500`
+
+Si besoin se référer au document `Delta Calibration Calculator
 
 - [Télécharger Delta Calibration Calculator](https://github.com/KORSiRO/FLSUN-SR/raw/main/Calibration/Delta%20Calibration%20Calculator.xlsx)
 
