@@ -19,7 +19,7 @@
   ### 1. Upgrade firmware FLSUN SR :  
 
 - Formater une `carte SD` ou une `clé USB` en `FAT32 4096 octets`  
-- Copier le fichier `Robin_nano_v3.bin` à la racine de la carte SD/clé usb  
+- Copier le fichier `Robin_nano_v3.bin` à la racine de la carte SD/clé USB  
 - Connecter la carte SD/clé usb à l'imprimante et l'allumer  
 - Attendre la fin de la MAJ
 
