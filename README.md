@@ -24,12 +24,6 @@
 
 # CALIBRATION
 
-***Liens utiles Calibration :***
-
-- [Réglages de votre FLSUN SR](https://www.lesimprimantes3d.fr/forum/topic/46585-r%C3%A9glage-de-votre-flsun-sr/)
-- [Bien débuter avec la FLSUN SR](https://www.lesimprimantes3d.fr/forum/topic/47145-mon-retour-dexp%C3%A9rience-et-comment-bien-d%C3%A9buter-avec-la-flsun-sr/)
-
-
 **1. PID Buse (firmware 1.4) :**
 
 - Créer un fichier texte que l'on appellera `PID Buse.gcode`
@@ -87,4 +81,7 @@ On mesure la distance extrudée et on fait le calcul :
 
 
 
+***Liens utiles :***
 
+- [Réglages de votre FLSUN SR](https://www.lesimprimantes3d.fr/forum/topic/46585-r%C3%A9glage-de-votre-flsun-sr/)
+- [Bien débuter avec la FLSUN SR](https://www.lesimprimantes3d.fr/forum/topic/47145-mon-retour-dexp%C3%A9rience-et-comment-bien-d%C3%A9buter-avec-la-flsun-sr/)
