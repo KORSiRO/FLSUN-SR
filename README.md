@@ -73,3 +73,12 @@ Depuis la `Console`sur l'écran de la SR on envoie les commandes :
 On mesure la distance extrudée et on fait le calcul : 
 `(longueur demandée / longueur mesuréee) x steps actuels = nouveaux steps`
 
+**4. Delta Calibration :**
+
+<img src="https://user-images.githubusercontent.com/62854582/164052174-66a85777-bf06-4e9e-a63b-a6fb0d2b1a4f.png" width="350">
+
+- [Télécharger Delta Calibration Calculator](https://github.com/KORSiRO/FLSUN-SR/raw/main/Calibration/Delta%20Calibration%20Calculator.xlsx)
+
+
+
+
