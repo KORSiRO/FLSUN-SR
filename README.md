@@ -71,5 +71,5 @@ Depuis la `Console`sur l'écran de la SR on envoie les commandes :
 `G1 E100` (pour extruder 100mm)  
 
 On mesure la distance extrudée et on fait le calcul : 
-`(longueur demandée / longeur mesuréee) x steps actuels = nouveaux steps`
+`(longueur demandée / longueur mesuréee) x steps actuels = nouveaux steps`
 
