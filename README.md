@@ -4,6 +4,8 @@
 - [Télécharger firmware 1.4 USB](https://github.com/KORSiRO/FLSUN-SR/raw/main/Firmware%201.4/Firmware%201.4%20NanoV3-Udisk/Robin_nano_v3.bin)
 - [Télécharger firmware SCREEN](https://github.com/KORSiRO/FLSUN-SR/raw/main/Firmware%201.4/Firmware%201.4%20Screen/DWIN_SET.zip)
 
+[Vidéo MAJ Firmware v1.3/v1.4](https://www.youtube.com/watch?v=-RFSyTZ_7P0&ab_channel=FLSUN)
+
 **1. Upgrade firmware FLSUN SR :**
 
 - Formater une carte SD ou clé USB en `FAT32 4096`  
