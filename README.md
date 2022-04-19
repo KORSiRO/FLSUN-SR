@@ -101,6 +101,12 @@ Si besoin se référer au document `Delta Calibration Calculator
 
 - [Télécharger Delta Calibration Calculator](https://github.com/KORSiRO/FLSUN-SR/raw/main/Calibration/Delta%20Calibration%20Calculator.xlsx)
 
+# MODIFICATIONS DU FIRMWARE
+
+- Utilisation du port Micro SD :
+`Configuration_adv.h` : `//#define USB_FLASH_DRIVE_SUPPORT` `//#define USE_OTG_USB_HOST`
+- Utilisation du port USB :
+`Configuration_adv.h` : `#define USB_FLASH_DRIVE_SUPPORT` `#define USE_OTG_USB_HOST`
 
 
 ***Liens utiles :***
