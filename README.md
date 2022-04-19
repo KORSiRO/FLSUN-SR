@@ -1,4 +1,10 @@
-# FLSUN-SR FIRMWARE
+
+<p align="center">  
+  <img src="https://user-images.githubusercontent.com/62854582/164056911-da4a19c8-fc3c-45bd-b51c-186f05931f83.png" width="400"/>  
+</p>
+           
+# FLSUN-SR FIRMWARE  
+
 
 - [Télécharger firmware 1.4 SD](https://github.com/KORSiRO/FLSUN-SR/raw/main/Firmware%201.4/Firmware%201.4%20NanoV3-TFcard/Robin_nano_v3.bin)
 - [Télécharger firmware 1.4 USB](https://github.com/KORSiRO/FLSUN-SR/raw/main/Firmware%201.4/Firmware%201.4%20NanoV3-Udisk/Robin_nano_v3.bin)
