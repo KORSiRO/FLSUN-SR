@@ -92,7 +92,7 @@ et les modifier :
 ### 3. Extrudeur :
 
 - Faire une marque à 120 mm
-- Extruder 100mm : 
+- Extruder 100mm :  
 `M302 S0` (pour pouvoir extruder à froid)  
 `M83` (pour passer en mode relatif)  
 `G1 E100 F100` (pour extruder 100mm)
