@@ -102,7 +102,7 @@ et les modifier :
 `Steps actuel x100mm` = `Steps pour 100mm`  
 `Steps pour 100mm / Longueur extrudée` = `Nouvelle valeur Steps` 
 
-Si besoin se référer au fichier `CALIBRATION AUTOMATISÉ IMPRESSION 3D by KORSiRO.xlsm` afin de vous faciliter les calculs de calibration.
+Si besoin télécharger fichier [CALIBRATION AUTOMATISÉ IMPRESSION 3D](https://github.com/KORSiRO/FLSUN-SR/raw/main/Calibration/CALIBRATION%20AUTOMATIS%C3%89%20IMPRESSION%203D.xlsm) afin de vous faciliter les calculs de calibration.
 
 ### 4. Delta Calibration :
 
