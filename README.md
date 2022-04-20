@@ -97,7 +97,7 @@ On mesure la distance extrudée et on fait le calcul :
 - Régler le `Z Offset`
 - Sauvegarder avec la commande `M500`
 
-Si besoin se référer au document `Delta Calibration Calculator
+Si besoin se référer au document `Delta Calibration Calculator`
 
 - [Télécharger Delta Calibration Calculator](https://github.com/KORSiRO/FLSUN-SR/raw/main/Calibration/Delta%20Calibration%20Calculator.xlsx)
 
