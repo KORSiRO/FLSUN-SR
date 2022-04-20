@@ -123,7 +123,7 @@ Si besoin télécharger fichier [CALIBRATION AUTOMATISÉ IMPRESSION 3D](https://
 
 Si besoin se référer au document `Delta Calibration Calculator`
 
-- [Télécharger Delta Calibration Calculator](https://github.com/KORSiRO/FLSUN-SR/raw/main/Calibration/Delta%20Calibration%20Calculator.xlsx)
+- [Delta Calibration Calculator](https://github.com/KORSiRO/FLSUN-SR/raw/main/Calibration/Delta%20Calibration%20Calculator.xlsx)
 
 # MODIFICATIONS DU FIRMWARE
 
