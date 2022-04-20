@@ -20,7 +20,7 @@
 - [Télécharger Firmware écran v1.4](https://github.com/KORSiRO/FLSUN-SR/raw/main/Firmware%201.4/Firmware%201.4%20Screen/DWIN_SET.zip)
 - [Vidéo MAJ Firmware v1.3/v1.4](https://www.youtube.com/watch?v=-RFSyTZ_7P0&ab_channel=FLSUN)
 
-### Installation firmware MKS Robin Nano v3 :
+### 1. Installation firmware MKS Robin Nano v3 :
 
 - Faire un `Reset EEPROM` avant de flasher le nouveau firmware : `M502` suivi de `M500` (depuis un termnial ou depuis l'écran de la SR)
 - Choisir le `Firmware`en suivant les liens ci-dessus
