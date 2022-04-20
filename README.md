@@ -48,6 +48,14 @@
 - On retourne dans le menu `EEPROM` et on vérifie que les données ont bien été modifiées
 - On se rend dans `Console`sur l'écran de la SR et on rentre un `M500`pour sauvegarder les nouvelles valeurs
 
+### 1.2 PID Buse depuis Pronterface ou Octoprint :
+
+- Entrer la commande `M106 E0 S255` (mise en route du ventilateur de la buse)
+- Entrer la commande `M303 E0 S210 C8 U1`
+- Une fois le PID terminé, entrer la commande `M301 P... I... D...` (remplacer `...` par les nouvelles valeurs)
+- Entrer la commande `M500` pour sauvegarder
+- Entrer la commande `M106 E0 S0` pour couper le ventilateur de la buse
+
 **:warning: Si la température de la buse est irrégulière :warning:**
 
 Dans `Marlin > Configuration.h` repérer les lignes :
@@ -74,6 +82,12 @@ et les modifier :
 - On se rend dans `Console`sur l'écran de la SR et on rentre un `M500`pour sauvegarder les nouvelles valeurs
 
 **PS** : `U1`permet d'envoyer à la carte mère les nouvelles valeurs du PID
+
+### 2.2 PID Bed depuis Pronterface ou Octoprint :
+
+- Entrer la commande `M303 E-1 S60 C8`
+- Une fois le PID terminé, entrer la commande `M304 P... I... D...` (remplacer `...` par les nouvelles valeurs)
+- Entrer la commande `M500` pour sauvegarder
 
 ### 3. Extrudeur :
 
