@@ -141,7 +141,8 @@ Si besoin se référer au document `Delta Calibration Calculator`
 
 - Utilisation du port **Micro SD** :
   * Configuration_adv.h :  
-  `//#define USB_FLASH_DRIVE_SUPPORT`                                                                                                                                     `//#define USE_OTG_USB_HOST`
+  `//#define USB_FLASH_DRIVE_SUPPORT`  
+  `//#define USE_OTG_USB_HOST`
 
 - Utilisation du **port USB** :
   * Configuration_adv.h :  
