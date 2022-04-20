@@ -115,7 +115,7 @@ Si besoin télécharger fichier [CALIBRATION AUTOMATISÉ IMPRESSION 3D](https://
 - Depuis Pronterface ou autre, lancer la commande `G33`
 - Attendre la fin et enregistrer avec la commande `M500`
 - Retirer la sonde de leveling
-- Chauffer la buse à votre température d'impression (sans filament pour éviter qu'il coule de la buse)
+- Chauffer la buse à votre température d'impression (sans filament pour éviter qu'il ne coule de la buse)
 - Chauffer le lit à votre température d'impression
 - Déplacer la buse à la hauteur `Z=0`
 - Placer un papier et ajuster le Z-Offset depuis l'écran de la SR
