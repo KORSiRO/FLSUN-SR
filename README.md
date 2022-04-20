@@ -96,7 +96,7 @@ et les modifier :
 `M302 S0` (pour pouvoir extruder à froid)  
 `M83` (pour passer en mode relatif)  
 `G1 E100 F100` (pour extruder 100mm)
-- Récupérer les Steps actuel :
+- Récupérer les Steps actuel avec la commande :  
 `M92`
 - On fait le calcul suivant :
 `Steps actuel x100mm` = `Steps pour 100mm`
