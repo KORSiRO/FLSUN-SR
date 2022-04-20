@@ -140,7 +140,8 @@ Si besoin se référer au document `Delta Calibration Calculator`
 # MODIFICATIONS DU FIRMWARE
 
 - Utilisation du port **Micro SD** :
-  * Configuration_adv.h : `//#define USB_FLASH_DRIVE_SUPPORT`                                                                                                                                     `//#define USE_OTG_USB_HOST`
+  * Configuration_adv.h :  
+  `//#define USB_FLASH_DRIVE_SUPPORT`                                                                                                                                     `//#define USE_OTG_USB_HOST`
 
 - Utilisation du **port USB** :
   * Configuration_adv.h :  
