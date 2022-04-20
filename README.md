@@ -91,14 +91,16 @@ et les modifier :
 
 ### 3. Extrudeur :
 
-Depuis la `Console`sur l'écran de la SR on envoie les commandes :  
-
+- Faire une marque à 120 mm
+- Extruder 100mm : 
 `M302 S0` (pour pouvoir extruder à froid)  
 `M83` (pour passer en mode relatif)  
-`G1 E100` (pour extruder 100mm)  
-
-On mesure la distance extrudée et on fait le calcul : 
-`(longueur demandée / longueur mesuréee) x steps actuels = nouveaux steps`
+`G1 E100 F100` (pour extruder 100mm)
+- Récupérer les Steps actuel :
+`M92`
+- On fait le calcul suivant :
+`Steps actuel x100mm` = `Steps pour 100mm`
+`Steps pour 100mm / Longueur extrudée` = `Nouvelle valeur Steps` 
 
 ### 4. Delta Calibration :
 
