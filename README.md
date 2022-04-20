@@ -101,6 +101,8 @@ et les modifier :
 - On fait le calcul suivant :  
 `Steps actuel x100mm` = `Steps pour 100mm`  
 `Steps pour 100mm / Longueur extrudée` = `Nouvelle valeur Steps` 
+- Entrer la commande `M92 E...` (remplacer `...`par la nouvelle valeur trouvée)
+- Entrer la commande `M500` pour sauvegarder
 
 Si besoin télécharger fichier [CALIBRATION AUTOMATISÉ IMPRESSION 3D](https://github.com/KORSiRO/FLSUN-SR/raw/main/Calibration/CALIBRATION%20AUTOMATIS%C3%89%20IMPRESSION%203D.xlsm) afin de vous faciliter les calculs de calibration.
 
