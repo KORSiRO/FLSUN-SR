@@ -117,7 +117,6 @@ Si besoin télécharger fichier [CALIBRATION AUTOMATISÉ IMPRESSION 3D](https://
 - Retirer la sonde de leveling
 - Chauffer la buse à votre température d'impression (sans filament pour éviter qu'il coule de la buse)
 - Chauffer le lit à votre température d'impression
-- Faire un `Leveling` depuis l'écran de la SR
 - Déplacer la buse à la hauteur `Z=0`
 - Placer un papier et ajuster le Z-Offset depuis l'écran de la SR
 - Sauvegarder
