@@ -110,6 +110,8 @@ Si besoin se référer au document `CALIBRATION AUTOMATISÉ IMPRESSION 3D` afin 
 
 - [CALIBRATION AUTOMATISÉ IMPRESSION 3D](https://github.com/KORSiRO/FLSUN-SR/raw/main/Calibration/CALIBRATION%20AUTOMATIS%C3%89%20IMPRESSION%203D.xlsm)
 
+**PS** : activer les macros sour Excel pour enregistrer vos valeurs
+
 ### 4. Delta Calibration :
 
 <img src="https://user-images.githubusercontent.com/62854582/164052174-66a85777-bf06-4e9e-a63b-a6fb0d2b1a4f.png" width="350">
