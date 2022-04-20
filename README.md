@@ -98,9 +98,11 @@ et les modifier :
 `G1 E100 F100` (pour extruder 100mm)
 - Récupérer les Steps actuel avec la commande :  
 `M92`
-- On fait le calcul suivant :
-`Steps actuel x100mm` = `Steps pour 100mm`
+- On fait le calcul suivant :  
+`Steps actuel x100mm` = `Steps pour 100mm`  
 `Steps pour 100mm / Longueur extrudée` = `Nouvelle valeur Steps` 
+
+Si besoin se référer au fichier `CALIBRATION AUTOMATISÉ IMPRESSION 3D by KORSiRO.xlsm` afin de vous faciliter les calculs de calibration.
 
 ### 4. Delta Calibration :
 
