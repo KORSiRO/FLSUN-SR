@@ -1,0 +1,4 @@
+M603 L80.0000 U80.0000 : distance d'insertion/retrait du filament
+M92 E562 : Esteps ( à modifier si besoin )
+M906 T0 E680 : courant NEMA14 conseillé entre 600mA et 700mA par le constructeur
+M500 : sauvegarde 
