@@ -1,0 +1,6 @@
+Il faut mettre ces fichiers dans les dossiers /printer/, /filament/, /print/ de C:\Users\UserName\AppData\Roaming\SuperSlicer
+
+
+Dans les réglages de l'imprimante il faut changer le Z max (260 au lieu de 330).
+
+Attention, la rétraction est définie pour un extrudeur Direct Drive. Pensez à l'adapter si vous êtes en Bowden
