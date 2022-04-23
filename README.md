@@ -57,14 +57,16 @@
 - Le PID est terminé quand la température est descendu à ~ 20° en dessous de la valeur `S` de départ
 - On retourne dans le menu `EEPROM` et on vérifie que les données ont bien été modifiées
 - On se rend dans `Console`sur l'écran de la SR et on rentre la commande :  
-  - `M500` *(Sauvegarder)*
+  - `M500` *(Sauvegarder)*  
+
+***PS : `U1` permet d'envoyer à la carte mère les nouvelles valeurs du PID***
 
 ### 1.2 PID Buse depuis Pronterface ou Octoprint :
 
 - Entrer la commande  
   - `M106 E0 S255` *(mise en route du ventilateur de la buse)*
 - Entrer la commande  
-  - `M303 E0 S210 C8 U1` *(8 cycles de chauffe à 210°)*
+  - `M303 E0 S210 C8` *(8 cycles de chauffe à 210°)*
 - Une fois le PID terminé, entrer la commande  
   - `M301 P... I... D...` *(remplacer `...` par les nouvelles valeurs)*
 - Entrer la commande  
@@ -84,8 +86,6 @@
 - On retourne dans le menu `EEPROM` et on vérifie que les données ont bien été modifiées
 - On se rend dans `Console` sur l'écran de la SR et on rentre la commande :  
   - `M500` *(Sauvegarder)*
-
-***PS : `U1` permet d'envoyer à la carte mère les nouvelles valeurs du PID***
 
 ### 2.2 PID Bed depuis Pronterface ou Octoprint :
 
