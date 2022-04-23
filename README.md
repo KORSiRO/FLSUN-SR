@@ -165,7 +165,7 @@ Voici une vidéo du GüeroLoco qui explique tout en détails et de façon préci
 - [Remplacement d'un chariot de roulement à billes sur la FLSun SR](https://www.youtube.com/watch?v=EmRWLrZj9kU&ab_channel=LeG%C3%BCeroLoco) *(Le GüeroLoco)*
 - [Remplacement des rails linéaires](https://youtu.be/Kz_pey1oJfk) *(FLSUN)*
 - [Remplacement de l'extrudeur](https://youtu.be/rzaumVlEIZM) *(FLSUN)*
-
+- [Imprimer par USB PC > USB](https://youtu.be/wfSc23aPTmI) *(FLSUN)*
 
 ### ***Liens utiles :***
 
