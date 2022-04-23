@@ -16,7 +16,7 @@
 - [Firmware Guilouz Nano v3](https://github.com/Guilouz/Marlin-SuperRacer-MKS-Nano-V3)
 - [Firmware Guilouz BTT TFT70](https://github.com/Guilouz/BTT-TFT70-SuperRacer)
 
-- [Firmware Foxies Nano v3 + BTT TFT70](https://github.com/Foxies-CSTL/Marlin_2.0.x/tree/Firmwares/SR)
+- [Firmware Foxies Nano v3 + BTT TFT70/TFT35](https://github.com/Foxies-CSTL/Marlin_2.0.x/tree/Firmwares/SR)
 
 
 ### 1. Installation firmware MKS Robin Nano v3 :
