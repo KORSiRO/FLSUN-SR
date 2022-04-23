@@ -125,7 +125,7 @@ Si besoin se référer au document `Delta Calibration Calculator`
 - [Modifications Firmware by Guilouz](https://github.com/Guilouz/Marlin-SuperRacer-MKS-Nano-V3#possible-changes)   
   
   
-#### ***Liens utiles :***
+### ***Liens utiles :***
 
 - [Upgrades FLSUN SR](https://3dprintbeginner.com/flsun-super-racer-upgrades/)
 - [Forum FLSUN SR](https://www.lesimprimantes3d.fr/forum/140-flsun-3d/)
