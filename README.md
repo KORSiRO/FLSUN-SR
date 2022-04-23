@@ -150,10 +150,18 @@ Voici une vidéo du GüeroLoco qui explique tout en détails et de façon préci
 
 # MODIFICATIONS FIRMWARE  
 
-- [Modifications Firmware Guilouz](https://github.com/Guilouz/Marlin-SuperRacer-MKS-Nano-V3#possible-changes)   
-  
-  
-# ***Liens utiles :***
+- [Modifications Firmware Guilouz](https://github.com/Guilouz/Marlin-SuperRacer-MKS-Nano-V3#possible-changes)  
+
+### ***Vidéos utiles :***  
+
+- [Maintenance Extrudeur](https://www.youtube.com/watch?v=TFeJfY321w8&ab_channel=DennisGignac) *(Dennis Gignac)*
+- [Maintenance extrudeur + installation PEI](https://www.youtube.com/watch?v=aKYDvgTuacc&t=3s&ab_channel=JSTECH) *(JSTECH)*  
+- [Changement du firmware](https://www.youtube.com/watch?v=z3LmcFhDHHk&ab_channel=JSTECH) *(JSTECH)*
+- [Installation écran BTT TFT70](https://www.youtube.com/watch?v=vALnOhEb6vk&ab_channel=JSTECH) *(JSTECH)*  
+- [Installation BondTech LGX Lite](https://www.youtube.com/watch?v=Ql5lIAr7H58&ab_channel=JSTECH) *(JSTECH)*  
+- [Amélioration FLSUN SR](https://www.youtube.com/watch?v=qsMoB8AFH08&ab_channel=JSTECH) *(JSTECH)*  
+
+### ***Liens utiles :***
 
 - [Acheter FLSUN SR sur le site FLSUN Officiel](https://flsun3d.com/products/super-racer-sr?variant=40603765964968)
 - [Upgrades FLSUN SR](https://3dprintbeginner.com/flsun-super-racer-upgrades/)
