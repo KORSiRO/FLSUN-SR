@@ -85,7 +85,7 @@
 - On se rend dans `Console` sur l'écran de la SR et on rentre la commande :  
   - `M500` *(Sauvegarder)*
 
-***PS : `U1`permet d'envoyer à la carte mère les nouvelles valeurs du PID***
+***PS : `U1` permet d'envoyer à la carte mère les nouvelles valeurs du PID***
 
 ### 2.2 PID Bed depuis Pronterface ou Octoprint :
 
