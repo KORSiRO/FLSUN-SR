@@ -76,13 +76,13 @@
 
 - Créer un fichier texte que l'on appellera `PID Bed.gcode`
 - Intégrer dans ce fichier :  
-  - `M303 E-1 S60 C8 U1` *(8 cycles de chauffe à 60°)
+  - `M303 E-1 S60 C8 U1` *(8 cycles de chauffe à 60°)*
 - Noter ensuite les paramètres visible sur l'écran dans le menu `EEPROM` de la SR
 - Imprimer le fichier `PID Buse.gcode` ou `PID Bed.gcode`, l'écran indique "impression terminée".
 - La température de la buse va monter *(PID en cours)*
 - Le PID est terminé quand la température est descendu à ~ 20° en dessous de la valeur `S` de départ
 - On retourne dans le menu `EEPROM` et on vérifie que les données ont bien été modifiées
-- On se rend dans `Console` sur l'écran de la SR et on rentre la commande  
+- On se rend dans `Console` sur l'écran de la SR et on rentre la commande :  
   - `M500` *(Sauvegarder)*
 
 **PS** : `U1`permet d'envoyer à la carte mère les nouvelles valeurs du PID
