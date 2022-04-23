@@ -143,4 +143,4 @@ Je tiens à remercier toutes les personnes qui proposent leur aides, participati
 Grâce à elles, il est possible d'avoir beaucoup d'informations à disposition.  
 La seule contribution personnelle est le fichier "CALIBRATION AUTOMATISÉ IMPRESSION 3D" que j'ai créé.  
 Ce github a vu le jour pour permettre de faciliter les recherches à tous le monde.  
-Je vous souhaite bonne recherche et j'espère que ce Github vous soit utile :wink:*
+J'espère que ce Github vous soit utile :wink:*
