@@ -164,6 +164,7 @@ Voici une vidéo du GüeroLoco qui explique tout en détails et de façon préci
 - [Mise à jour et réglages Flsun SuperRacer](https://www.youtube.com/watch?v=1fjbWBlSdbM&ab_channel=OlivierRichard3DLand-Shop) *(Olivier Richard 3DLand-Shop)*  
 - [Remplacement d'un chariot de roulement à billes sur la FLSun SR](https://www.youtube.com/watch?v=EmRWLrZj9kU&ab_channel=LeG%C3%BCeroLoco) *(Le GüeroLoco)*
 - [Remplacement des rails linéaires](https://youtu.be/Kz_pey1oJfk) *(FLSUN)*
+- [Remplacement de l'extrudeur](https://youtu.be/rzaumVlEIZM) *(FLSUN)*
 
 
 ### ***Liens utiles :***
