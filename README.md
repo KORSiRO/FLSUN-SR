@@ -46,7 +46,7 @@
 
 # CALIBRATION  
 
-- [Télécharger Printrun *(Pronterface)](https://github.com/kliment/Printrun/releases)
+- [Télécharger Printrun *(Pronterface)*](https://github.com/kliment/Printrun/releases)
 
 ### 1. PID Buse (firmware 1.4) :
 
