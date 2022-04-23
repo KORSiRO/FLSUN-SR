@@ -101,17 +101,19 @@
 - Faire une marque à 120 mm
 - Retirer le PTFE du dessous de l'extrudeur (extrusion à froid)
 - Extruder 100mm :  
-`M302 S0` (pour pouvoir extruder à froid)  
-`M83` (pour passer en mode relatif)  
-`G1 E100 F100` (pour extruder 100mm)
+  - `M302 S0` *(pour pouvoir extruder à froid)*  
+  - `M83` *(pour passer en mode relatif)*  
+  - `G1 E100 F100` *(pour extruder 100mm)*
 - Relever la longueur extrudée
 - Récupérer les Steps actuel avec la commande :  
-`M92`
+  - `M92`
 - On fait le calcul suivant :  
-`Steps actuel x 100mm` = `Steps pour 100mm`  
-`Steps pour 100mm / Longueur extrudée` = `Nouvelle valeur Steps` 
-- Entrer la commande `M92 E...` (remplacer `...`par la nouvelle valeur trouvée)
-- Entrer la commande `M500` pour sauvegarder
+  - `Steps actuel x 100mm` = `Steps pour 100mm`  
+  - `Steps pour 100mm / Longueur extrudée` = `Nouvelle valeur Steps` 
+- Entrer la commande:  
+  - `M92 E...` *(remplacer `...`par la nouvelle valeur trouvée)*
+- Entrer la commande :  
+  - `M500` *(Sauvegarder)*
 
 Se référer au document [CALIBRATION AUTOMATISÉ IMPRESSION 3D](https://github.com/KORSiRO/FLSUN-SR/raw/main/Calibration/CALIBRATION%20AUTOMATIS%C3%89%20IMPRESSION%203D.xlsm) afin de vous faciliter les calculs de calibration.
 
@@ -124,8 +126,10 @@ Se référer au document [CALIBRATION AUTOMATISÉ IMPRESSION 3D](https://github.
 
 - Connecter la sonde pour le leveling
 - Chauffer le lit à votre température habituelle
-- Depuis Pronterface ou autre, lancer la commande `G33`
-- Attendre la fin et enregistrer avec la commande `M500`
+- Depuis Pronterface ou autre, lancer la commande  
+  - `G33`
+- Attendre la fin et enregistrer avec la commande  
+  - `M500`
 - Retirer la sonde de leveling
 - Chauffer la buse à votre température d'impression (sans filament pour éviter qu'il ne coule de la buse)
 - Chauffer le lit à votre température d'impression
