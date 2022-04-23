@@ -141,7 +141,12 @@ Se référer au document [CALIBRATION AUTOMATISÉ IMPRESSION 3D](https://github.
 
 Si besoin se référer au document `Delta Calibration Calculator`
 
-- [Delta Calibration Calculator](https://github.com/Guilouz/Marlin-SuperRacer-MKS-Nano-V3/files/8146727/Delta.Calibration.Calculator.zip)
+- [Delta Calibration Calculator](https://github.com/Guilouz/Marlin-SuperRacer-MKS-Nano-V3/files/8146727/Delta.Calibration.Calculator.zip)  
+
+### 5. Linear Advance
+
+Voici une vidéo du GüeroLoco qui explique tout en détails et de façon précise !
+- [Linear Advance par le GüeroLoco](https://www.youtube.com/watch?v=f6fzJTsnpds&ab_channel=LeG%C3%BCeroLoco)
 
 # MODIFICATIONS FIRMWARE  
 
