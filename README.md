@@ -139,6 +139,8 @@ Si besoin se référer au document `Delta Calibration Calculator`
      
        
 *Toutes les informations collectées proviennent de différentes sources.  
+Je tiens à remercier toutes les personnes qui proposes leur aides, participations et contributions.
+Grâce à eux il est possible d'avoir beaucoup d'informations à disposition.
 La seule contribution personnelle est le fichier "CALIBRATION AUTOMATISÉ IMPRESSION 3D" que j'ai créé.  
 Ce github a vu le jour pour permettre de faciliter les recherches à tous le monde est en aucuns cas pour percevoir quelque mérite que ce soit !  
 Je vous souhaite bonne recherche et j'espère que ce Github vous soit utile :wink:*
