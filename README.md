@@ -12,6 +12,11 @@
 
 - [Firmware Stock v1.4](https://github.com/KORSiRO/FLSUN-SR/tree/main/Firmware%20STOCK/Firmware%20v1.4)
 
+- [Firmware Guilouz Nano v3](https://github.com/Guilouz/Marlin-SuperRacer-MKS-Nano-V3)
+
+- [Firmware Foxies Nano v3](https://github.com/Foxies-CSTL/Marlin_2.0.x/tree/Firmwares/SR)
+
+
 ### 1. Installation firmware MKS Robin Nano v3 :
 
 - Faire un `Reset EEPROM` avant de flasher le nouveau firmware : `M502` suivi de `M500` (depuis un termnial ou depuis l'écran de la SR)
