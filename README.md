@@ -169,7 +169,6 @@ Voici une vidéo du GüeroLoco qui explique tout en détails et de façon préci
 - [Imprimer via PC > USB](https://youtu.be/wfSc23aPTmI) *(FLSUN)*
 
 
-
 ### ***Liens utiles :***
 
 - [Acheter FLSUN SR sur le site FLSUN Officiel](https://flsun3d.com/products/super-racer-sr?variant=40603765964968)
@@ -178,8 +177,8 @@ Voici une vidéo du GüeroLoco qui explique tout en détails et de façon préci
 - [Bien débuter avec la FLSUN SR](https://www.lesimprimantes3d.fr/forum/topic/47145-mon-retour-dexp%C3%A9rience-et-comment-bien-d%C3%A9buter-avec-la-flsun-sr/)
 - [FAQ FLSUN SR](https://www.imprimante3d.shop/accueil/foire-aux-questions-flsun-sr-super-racer/)
 - [Pièces détachées FLSUN SR](https://www.3djake.fr/piecesdetachees/pieces-detachees-pour-flsun-super-racer)  
+- [Installer KLIPPER](https://3dprintbeginner.com/klipper-on-flsun-super-racer/)
    
-     
        
 *Toutes les informations collectées proviennent de différentes sources.  
 Je tiens à remercier toutes les personnes qui proposent leur aides, participations et contributions.  
