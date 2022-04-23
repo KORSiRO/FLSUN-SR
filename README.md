@@ -97,9 +97,8 @@
 - Entrer la commande `M92 E...` (remplacer `...`par la nouvelle valeur trouvée)
 - Entrer la commande `M500` pour sauvegarder
 
-Se référer au document `CALIBRATION AUTOMATISÉ IMPRESSION 3D` afin de vous faciliter les calculs de calibration E/X/Y/Z/FLOW
+Se référer au document [CALIBRATION AUTOMATISÉ IMPRESSION 3D](https://github.com/KORSiRO/FLSUN-SR/raw/main/Calibration/CALIBRATION%20AUTOMATIS%C3%89%20IMPRESSION%203D.xlsm) afin de vous faciliter les calculs de calibration.
 
-- [CALIBRATION AUTOMATISÉ IMPRESSION 3D](https://github.com/KORSiRO/FLSUN-SR/raw/main/Calibration/CALIBRATION%20AUTOMATIS%C3%89%20IMPRESSION%203D.xlsm)
 
 **PS** : activer les macros sous Excel pour enregistrer vos valeurs
 
