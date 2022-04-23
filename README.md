@@ -120,6 +120,9 @@ Si besoin se référer au document `Delta Calibration Calculator`
 
 - [Delta Calibration Calculator](https://github.com/KORSiRO/FLSUN-SR/raw/main/Calibration/Delta%20Calibration%20Calculator.xlsx)
 
+# MODIFICATIONS FIRMWARE  
+
+- [Modifications Firmware by Guilouz](https://github.com/Guilouz/Marlin-SuperRacer-MKS-Nano-V3#possible-changes)
 
 ***Liens utiles :***
 
