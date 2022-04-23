@@ -59,20 +59,6 @@
 - Entrer la commande `M500` pour sauvegarder
 - Entrer la commande `M106 E0 S0` pour couper le ventilateur de la buse
 
-**:warning: Si la température de la buse est irrégulière :warning:**
-
-Dans `Marlin > Configuration.h` repérer les lignes :
-
-`#define BANG_MAX 255`  
-`#define PID_MAX 255`  
-`#define PID_FUNCTIONAL_RANGE 10`  
-
-et les modifier :
-
-`#define BANG_MAX 130`  
-`#define PID_MAX 110`  
-`#define PID_FUNCTIONAL_RANGE 20` 
-
 ### 2. PID Bed (firmware 1.4) :
 
 - Créer un fichier texte que l'on appellera `PID Bed.gcode`
