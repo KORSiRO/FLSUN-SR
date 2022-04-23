@@ -170,7 +170,7 @@ Voici une vidéo du GüeroLoco qui explique tout en détails et de façon préci
 ### ***Liens utiles :***
 
 - [Acheter FLSUN SR sur le site FLSUN Officiel](https://flsun3d.com/products/super-racer-sr?variant=40603765964968)
-- [Upgrades FLSUN SR](https://3dprintbeginner.com/flsun-super-racer-upgrades/)
+- [Achat upgrades FLSUN SR](https://3dprintbeginner.com/flsun-super-racer-upgrades/)
 - [Forum FLSUN SR](https://www.lesimprimantes3d.fr/forum/140-flsun-3d/)
 - [Bien débuter avec la FLSUN SR](https://www.lesimprimantes3d.fr/forum/topic/47145-mon-retour-dexp%C3%A9rience-et-comment-bien-d%C3%A9buter-avec-la-flsun-sr/)
 - [Réglages de votre FLSUN SR](https://www.lesimprimantes3d.fr/forum/topic/46585-r%C3%A9glage-de-votre-flsun-sr/)
