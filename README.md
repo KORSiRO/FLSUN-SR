@@ -124,7 +124,7 @@ Si besoin se référer au document `Delta Calibration Calculator`
 
 # MODIFICATIONS FIRMWARE  
 
-- [Modifications Firmware by Guilouz](https://github.com/Guilouz/Marlin-SuperRacer-MKS-Nano-V3#possible-changes)   
+- [Modifications Firmware Guilouz](https://github.com/Guilouz/Marlin-SuperRacer-MKS-Nano-V3#possible-changes)   
   
   
 # ***Liens utiles :***
