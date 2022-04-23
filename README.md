@@ -90,7 +90,7 @@
 ### 2.2 PID Bed depuis Pronterface ou Octoprint :
 
 - Entrer la commande  
-  - `M303 E-1 S60 C8` *(8 cycles de chauffe à 60°)
+  - `M303 E-1 S60 C8` *(8 cycles de chauffe à 60°)*
 - Une fois le PID terminé, entrer la commande  
   - `M304 P... I... D...` *(remplacer `...` par les nouvelles valeurs)*
 - Entrer la commande  
