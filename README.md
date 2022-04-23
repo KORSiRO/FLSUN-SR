@@ -167,6 +167,7 @@ Voici une vidéo du GüeroLoco qui explique tout en détails et de façon préci
 - [Amélioration FLSUN SR](https://www.youtube.com/watch?v=qsMoB8AFH08&ab_channel=JSTECH) *(JSTECH)*  
 - [Mise à jour et réglages Flsun SuperRacer](https://www.youtube.com/watch?v=1fjbWBlSdbM&ab_channel=OlivierRichard3DLand-Shop) *(Olivier Richard 3DLand-Shop)*  
 - [Imprimer via PC > USB](https://youtu.be/wfSc23aPTmI) *(FLSUN)*
+- [Flsun Super racer réglages Cura](https://www.youtube.com/watch?v=cN8M4Pxr6G8&ab_channel=Infosettutosinformatique) *(Infos et tutos informatique)*
 
 
 ### ***Liens utiles :***
