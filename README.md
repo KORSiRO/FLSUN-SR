@@ -21,14 +21,18 @@
 
 ### 1. Installation firmware MKS Robin Nano v3 :
 
-- Faire un `Reset EEPROM` avant de flasher le nouveau firmware : `M502` suivi de `M500` (depuis un termnial ou depuis l'écran de la SR)
-- Choisir le `Firmware`en suivant les liens ci-dessus
+- Faire un `Reset EEPROM` avant de flasher le nouveau firmware : 
+  - `M502` *(Reset EEPROM)*   
+  - `M500` *(Sauvegarder)*
+- Choisir le `Firmware` en suivant les liens ci-dessus
 - Formater une `carte SD` ou une `clé USB` en `FAT32 4096 octets`  
 - Copier le fichier `Robin_nano_v3.bin` à la racine de la carte SD/clé USB 
 - Connecter la carte SD/clé usb à l'imprimante et l'allumer 
 - Attendre quelques secondes que l'écran arrive à l'accueil
 - Vérifier sur la `carte SD` que le fichier `Robin_nano_v3.bin` a été renommé en `ROBIN_NANO_V3.CUR` (flash réussi)
-- Faire de nouveau un `Reset EEPROM` avec `M502` suivi de `M500` (depuis un termnial ou depuis l'écran de la SR)
+- Faire de nouveau un `Reset EEPROM`  
+  - `M502` *(Reset EEPROM)*  
+  - `M500` *(Sauvegarder)*
 - Redémarrer l'imprimante
 
 ### 2. Installation firmware écran FLSUN SR :
@@ -45,7 +49,8 @@
 ### 1. PID Buse (firmware 1.4) :
 
 - Créer un fichier texte que l'on appellera `PID Buse.gcode`
-- Intégrer dans ce fichier : `M303 E0 S210 C8 U1`
+- Intégrer dans ce fichier :  
+  - `M303 E0 S210 C8 U1` *(8 cycles de chauffe à 210°)*
 - Noter ensuite les paramètres visible sur l'écran dans le menu `EEPROM` de la SR
 - Imprimer le fichier `PID Buse.gcode` ou `PID Bed.gcode`, l'écran indique "impression terminée".
 - La température de la buse va monter (PID en cours)
@@ -55,30 +60,40 @@
 
 ### 1.2 PID Buse depuis Pronterface ou Octoprint :
 
-- Entrer la commande `M106 E0 S255` (mise en route du ventilateur de la buse)
-- Entrer la commande `M303 E0 S210 C8 U1`
-- Une fois le PID terminé, entrer la commande `M301 P... I... D...` (remplacer `...` par les nouvelles valeurs)
-- Entrer la commande `M500` pour sauvegarder
-- Entrer la commande `M106 E0 S0` pour couper le ventilateur de la buse
+- Entrer la commande  
+  - `M106 E0 S255` *(mise en route du ventilateur de la buse)*
+- Entrer la commande  
+  - `M303 E0 S210 C8 U1` *(8 cycles de chauffe à 210°)*
+- Une fois le PID terminé, entrer la commande  
+  - `M301 P... I... D...` *(remplacer `...` par les nouvelles valeurs)*
+- Entrer la commande  
+  - `M500` *(Sauvegarder)*
+- Entrer la commande  
+  - `M106 E0 S0` *(Couper le ventilateur de la buse)*
 
 ### 2. PID Bed (firmware 1.4) :
 
 - Créer un fichier texte que l'on appellera `PID Bed.gcode`
-- Intégrer dans ce fichier : `M303 E-1 S70 C8 U1`
+- Intégrer dans ce fichier :  
+  - `M303 E-1 S60 C8 U1` *(8 cycles de chauffe à 60°)
 - Noter ensuite les paramètres visible sur l'écran dans le menu `EEPROM` de la SR
 - Imprimer le fichier `PID Buse.gcode` ou `PID Bed.gcode`, l'écran indique "impression terminée".
-- La température de la buse va monter (PID en cours)
+- La température de la buse va monter *(PID en cours)*
 - Le PID est terminé quand la température est descendu à ~ 20° en dessous de la valeur `S` de départ
 - On retourne dans le menu `EEPROM` et on vérifie que les données ont bien été modifiées
-- On se rend dans `Console`sur l'écran de la SR et on rentre un `M500`pour sauvegarder les nouvelles valeurs
+- On se rend dans `Console` sur l'écran de la SR et on rentre la commande  
+  - `M500` *(Sauvegarder)*
 
 **PS** : `U1`permet d'envoyer à la carte mère les nouvelles valeurs du PID
 
 ### 2.2 PID Bed depuis Pronterface ou Octoprint :
 
-- Entrer la commande `M303 E-1 S60 C8`
-- Une fois le PID terminé, entrer la commande `M304 P... I... D...` (remplacer `...` par les nouvelles valeurs)
-- Entrer la commande `M500` pour sauvegarder
+- Entrer la commande  
+  - `M303 E-1 S60 C8` *(8 cycles de chauffe à 60°)
+- Une fois le PID terminé, entrer la commande  
+  - `M304 P... I... D...` *(remplacer `...` par les nouvelles valeurs)*
+- Entrer la commande  
+  - `M500` *(Sauvegarder)*
 
 ### 3. Extrudeur :
 
