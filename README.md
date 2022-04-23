@@ -139,7 +139,7 @@ Se référer au document [CALIBRATION AUTOMATISÉ IMPRESSION 3D](https://github.
 
 Si besoin se référer au document `Delta Calibration Calculator`
 
-- [Delta Calibration Calculator](https://github.com/KORSiRO/FLSUN-SR/raw/main/Calibration/Delta%20Calibration%20Calculator.xlsx)
+- [Delta Calibration Calculator](https://github.com/Guilouz/Marlin-SuperRacer-MKS-Nano-V3/files/8146727/Delta.Calibration.Calculator.zip)
 
 # MODIFICATIONS FIRMWARE  
 
