@@ -154,18 +154,21 @@ Voici une vidéo du GüeroLoco qui explique tout en détails et de façon préci
 
 ### ***Vidéos utiles :***  
 
+- [Installation écran BTT TFT70](https://www.youtube.com/watch?v=vALnOhEb6vk&ab_channel=JSTECH) *(JSTECH)*  
+- [Changement du firmware](https://www.youtube.com/watch?v=z3LmcFhDHHk&ab_channel=JSTECH) *(JSTECH)*
 - [Maintenance Extrudeur](https://www.youtube.com/watch?v=TFeJfY321w8&ab_channel=DennisGignac) *(Dennis Gignac)*
 - [Maintenance extrudeur + installation PEI](https://www.youtube.com/watch?v=aKYDvgTuacc&t=3s&ab_channel=JSTECH) *(JSTECH)*  
-- [Changement du firmware](https://www.youtube.com/watch?v=z3LmcFhDHHk&ab_channel=JSTECH) *(JSTECH)*
-- [Installation écran BTT TFT70](https://www.youtube.com/watch?v=vALnOhEb6vk&ab_channel=JSTECH) *(JSTECH)*  
 - [Installation BondTech LGX Lite](https://www.youtube.com/watch?v=Ql5lIAr7H58&ab_channel=JSTECH) *(JSTECH)*  
-- [Amélioration FLSUN SR](https://www.youtube.com/watch?v=qsMoB8AFH08&ab_channel=JSTECH) *(JSTECH)*  
+- [Remplacement de l'extrudeur](https://youtu.be/rzaumVlEIZM) *(FLSUN)*
 - [Ajuster la tension des courroies](https://www.youtube.com/watch?v=N3sxU1_EIXY&ab_channel=FLSUN) *(FLSUN)*  
-- [Mise à jour et réglages Flsun SuperRacer](https://www.youtube.com/watch?v=1fjbWBlSdbM&ab_channel=OlivierRichard3DLand-Shop) *(Olivier Richard 3DLand-Shop)*  
+- [Maintenance des courroies et des rails linéaires](https://www.youtube.com/watch?v=05de4OFZCg0&ab_channel=DennisGignac) *(Dennis Gignac)*
 - [Remplacement d'un chariot de roulement à billes sur la FLSun SR](https://www.youtube.com/watch?v=EmRWLrZj9kU&ab_channel=LeG%C3%BCeroLoco) *(Le GüeroLoco)*
 - [Remplacement des rails linéaires](https://youtu.be/Kz_pey1oJfk) *(FLSUN)*
-- [Remplacement de l'extrudeur](https://youtu.be/rzaumVlEIZM) *(FLSUN)*
+- [Amélioration FLSUN SR](https://www.youtube.com/watch?v=qsMoB8AFH08&ab_channel=JSTECH) *(JSTECH)*  
+- [Mise à jour et réglages Flsun SuperRacer](https://www.youtube.com/watch?v=1fjbWBlSdbM&ab_channel=OlivierRichard3DLand-Shop) *(Olivier Richard 3DLand-Shop)*  
 - [Imprimer via PC > USB](https://youtu.be/wfSc23aPTmI) *(FLSUN)*
+
+
 
 ### ***Liens utiles :***
 
