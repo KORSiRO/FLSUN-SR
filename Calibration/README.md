@@ -1,7 +1,3 @@
-# DELTA CALIBRATION :
-
-<img src="https://user-images.githubusercontent.com/62854582/164968249-0cc8d785-9708-43a9-9d65-7d5d514f637a.png" width="1000">
-
 # CALIBRATION AUTOMATISÉ IMPRESSION 3D :
 
 <img src="https://user-images.githubusercontent.com/62854582/164967442-7625912c-e8dd-4232-b42c-b5381321197a.png" width="900">
