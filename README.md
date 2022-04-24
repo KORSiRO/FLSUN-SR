@@ -169,7 +169,7 @@ Voici une vidéo du GüeroLoco qui explique tout en détails et de façon préci
 - [Alimentation MEAN WELL 350w](https://fr.aliexpress.com/item/1005002054981187.html?gatewayAdapt=glo2fra&spm=a2g0o.order_list.0.0.21ef5e5bi97cvc)
 - [Ventilateur Bloc de chauffe 4010](https://fr.aliexpress.com/item/1005003474807144.html?gatewayAdapt=glo2fra&aff_fcid=762c8e71f3b24783ba9e88342ecdbac5-1650800269612-00990-_u9niyN&aff_fsk=_u9niyN&aff_platform=api-new-link-generate&sk=_u9niyN&aff_trace_key=762c8e71f3b24783ba9e88342ecdbac5-1650800269612-00990-_u9niyN&terminal_id=807486d66e2f4b4da99660d6cc6d73fb&afSmartRedirect=y)
 
-### ***Vidéos utiles :***  
+#### ***Vidéos utiles :***  
 
 - [Installation écran BTT TFT70](https://www.youtube.com/watch?v=vALnOhEb6vk&ab_channel=JSTECH) *(JSTECH)*  
 - [Changement du firmware](https://www.youtube.com/watch?v=z3LmcFhDHHk&ab_channel=JSTECH) *(JSTECH)*
@@ -187,7 +187,7 @@ Voici une vidéo du GüeroLoco qui explique tout en détails et de façon préci
 - [Flsun Super racer réglages Cura](https://www.youtube.com/watch?v=cN8M4Pxr6G8&ab_channel=Infosettutosinformatique) *(Infos et tutos informatique)*
 - [Vidéo Delta Calibration](https://www.youtube.com/watch?v=kgCOhYoABYo&ab_channel=IAMAMAKER) (*IAMAMAKER*)
 
-### ***Liens utiles :***
+#### ***Liens utiles :***
 
 - [Acheter FLSUN SR sur le site FLSUN Officiel](https://flsun3d.com/products/super-racer-sr?variant=40603765964968)
 - [Achat upgrades FLSUN SR](https://3dprintbeginner.com/flsun-super-racer-upgrades/)
