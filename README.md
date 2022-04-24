@@ -133,11 +133,12 @@ Se référer au document [CALIBRATION AUTOMATISÉ IMPRESSION 3D](https://github.
 - Attendre la fin et enregistrer avec la commande  
   - `M500`
 - Retirer la sonde de leveling
-- Chauffer la buse à votre température d'impression (sans filament pour éviter qu'il ne coule de la buse)
-- Chauffer le lit à votre température d'impression
-- Déplacer la buse à la hauteur `Z=0`
-- Placer un papier et ajuster le Z-Offset depuis l'écran de la SR
-- Sauvegarder
+- Réglez votre Z Offset
+  - Chauffer la buse à votre température d'impression (sans filament pour éviter qu'il ne coule de la buse)
+  - Chauffer le lit à votre température d'impression
+  - Déplacer la buse à la hauteur `Z=0`
+  - Placer un papier et ajuster le Z-Offset depuis l'écran de la SR
+  - Sauvegarder
 
 Si besoin se référer au document `Delta Calibration Calculator`
 
