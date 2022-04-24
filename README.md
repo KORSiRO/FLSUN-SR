@@ -140,7 +140,7 @@ Se référer au document [CALIBRATION AUTOMATISÉ IMPRESSION 3D](https://github.
 
 Si besoin se référer au document `Delta Calibration Calculator`
 
-- [Delta Calibration Calculator](https://github.com/Guilouz/Marlin-SuperRacer-MKS-Nano-V3/files/8146727/Delta.Calibration.Calculator.zip)   
+- [Delta Calibration Calculator](https://github.com/Guilouz/Marlin-SuperRacer-MKS-Nano-V3/files/8146727/Delta.Calibration.Calculator.zip) *(Guilouz)   
 
 - [Vidéo Delta Calibration](https://www.youtube.com/watch?v=kgCOhYoABYo&ab_channel=IAMAMAKER) (*IAMAMAKER*)
 
