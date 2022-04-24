@@ -147,7 +147,7 @@ Si besoin se référer au document `Delta Calibration Calculator`
 ### 5. Linear Advance
 
 Voici une vidéo du GüeroLoco qui explique tout en détails et de façon précise !
-- [Linear Advance par le GüeroLoco](https://www.youtube.com/watch?v=f6fzJTsnpds&ab_channel=LeG%C3%BCeroLoco)
+- [Linear Advance](https://www.youtube.com/watch?v=f6fzJTsnpds&ab_channel=LeG%C3%BCeroLoco)
 
 # MODIFICATIONS FIRMWARE  
 
