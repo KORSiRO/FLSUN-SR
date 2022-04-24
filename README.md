@@ -111,7 +111,7 @@
   - `Steps actuel x 100mm` = `Steps pour 100mm`
   - `Steps pour 100mm / Longueur extrudée` = `Nouvelle valeur Steps`
 - Entrer la commande:
-  - `M92 E...` *(remplacer `...`par la nouvelle valeur trouvée)*
+  - `M92 E...` *(remplacer `...`par la nouvelle valeur trouvée, deux décimales maximum)*
 - Entrer la commande :
   - `M500` *(Sauvegarder)*
 
