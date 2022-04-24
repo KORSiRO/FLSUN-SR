@@ -190,3 +190,7 @@ Grâce à elles, il est possible d'avoir beaucoup d'informations à disposition.
 La seule contribution personnelle est le fichier "CALIBRATION AUTOMATISÉ IMPRESSION 3D" que j'ai créé.  
 Ce github a vu le jour pour permettre de faciliter les recherches à tous le monde.  
 En espérant que vous trouviez réponses à vos questions :wink:*
+
+
+
+[Guilouz](https://github.com/Guilouz), [Foxies](https://github.com/Foxies-CSTL), [Marc Lacome](https://www.facebook.com/marc.lacome.3), [pyriame](https://www.lesimprimantes3d.fr/forum/profile/13525-pyriame/), [Le GüeroLoco](https://www.youtube.com/channel/UCrFGsH4pplqjFXJqLcjykNQ), [JSTECH](https://www.youtube.com/channel/UCEnNq7HN3JwuOjVAEmzGEbw), [Les Imprimantes 3D](https://www.lesimprimantes3d.fr/), [3DPrintBeginner](https://3dprintbeginner.com/flsun-super-racer-upgrades/), [Denis Gignac](https://www.youtube.com/channel/UCZaTi2oW15syhG-VStDF8QQ), [Olivier Richard 3DLand-Shop](https://www.youtube.com/channel/UC7RgbWvwyzr6SnVPcy7GbEA), [Infos et tutos Informatique](https://www.youtube.com/channel/UC25vp3h-86eAkkBLsV13FEg), [IAMAMAKER](https://www.youtube.com/channel/UC69hBzipW2Xp_xWK2dnpZ0A)
