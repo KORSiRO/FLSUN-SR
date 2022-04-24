@@ -1,5 +1,5 @@
 - [Téléchargement sur Thingiverse](https://www.thingiverse.com/thing:4967400)  
 
 <p align="center">  
-  <img src="https://user-images.githubusercontent.com/62854582/164060580-3fda5f97-c952-41f3-aea1-43b30f48e8a3.png" width="500"/>  
+  <img src="https://user-images.githubusercontent.com/62854582/164977195-ef91be22-ef2e-4e18-b677-225b6cf5c31f.png" width="500"/>  
 </p>
