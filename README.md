@@ -202,8 +202,7 @@ Voici une vidéo du GüeroLoco qui explique tout en détails et de façon préci
        
 *Toutes les informations collectées proviennent de différentes sources.  
 Je tiens à remercier toutes les personnes qui proposent leur aides, participations et contributions.  
-Grâce à elles, il est possible d'avoir beaucoup d'informations à disposition.  
-La seule contribution personnelle est le fichier "CALIBRATION AUTOMATISÉ IMPRESSION 3D" que j'ai créé.  
+Grâce à elles, il est possible d'avoir beaucoup d'informations à disposition.   
 Ce github a vu le jour pour permettre de faciliter les recherches à tous le monde.  
 En espérant que vous trouviez réponses à vos questions :wink:*
 
