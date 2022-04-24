@@ -100,19 +100,19 @@
 
 - Faire une marque à 120 mm
 - Retirer le PTFE du dessous de l'extrudeur (extrusion à froid)
-- Extruder 100mm :  
-  - `M302 S0` *(pour pouvoir extruder à froid)*  
-  - `M83` *(pour passer en mode relatif)*  
+- Extruder 100mm :
+  - `M302 S0` *(pour pouvoir extruder à froid)*
+  - `M83` *(pour passer en mode relatif)*
   - `G1 E100 F100` *(pour extruder 100mm)*
 - Relever la longueur extrudée
-- Récupérer les Steps actuel avec la commande :  
+- Récupérer les Steps actuel avec la commande :
   - `M92`
-- On fait le calcul suivant :  
-  - `Steps actuel x 100mm` = `Steps pour 100mm`  
-  - `Steps pour 100mm / Longueur extrudée` = `Nouvelle valeur Steps` 
-- Entrer la commande:  
+- On fait le calcul suivant :
+  - `Steps actuel x 100mm` = `Steps pour 100mm`
+  - `Steps pour 100mm / Longueur extrudée` = `Nouvelle valeur Steps`
+- Entrer la commande:
   - `M92 E...` *(remplacer `...`par la nouvelle valeur trouvée)*
-- Entrer la commande :  
+- Entrer la commande :
   - `M500` *(Sauvegarder)*
 
 - [CALIBRATION AUTOMATISÉ IMPRESSION 3D](https://github.com/KORSiRO/FLSUN-SR/raw/main/Calibration/CALIBRATION%20AUTOMATIS%C3%89%20IMPRESSION%203D.xlsm)
