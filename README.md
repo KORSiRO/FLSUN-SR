@@ -105,7 +105,7 @@
 `M83` *(pour passer en mode relatif)*  
 `G1 E100 F100` *(pour extruder 100mm)*  
 - Relever la longueur extrudée  
-- - Récupérer les Steps actuel avec la commande  
+- Récupérer les Steps actuel avec la commande  
 `M92`  
 - On fait le calcul suivant  
 `Steps actuel x 100mm` = `Steps pour 100mm`  
