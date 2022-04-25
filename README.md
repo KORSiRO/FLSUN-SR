@@ -98,7 +98,7 @@
 
 ### 3. Extrudeur :
 
-- Faire une marque à `120 mm`  
+Faire une marque à `120 mm`  
 Retirer le PTFE du dessous de l'extrudeur *(extrusion à froid)*  
 Extruder `100mm` :  
 `M302 S0` *(pour pouvoir extruder à froid)*  
