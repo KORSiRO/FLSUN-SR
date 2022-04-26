@@ -177,12 +177,10 @@ Si Klipper vous tente aller voir par ici > [KLIPPER](https://github.com/KORSiRO/
 - [Ventilateur Bloc de chauffe 4010](https://fr.aliexpress.com/item/1005003474807144.html?gatewayAdapt=glo2fra&aff_fcid=762c8e71f3b24783ba9e88342ecdbac5-1650800269612-00990-_u9niyN&aff_fsk=_u9niyN&aff_platform=api-new-link-generate&sk=_u9niyN&aff_trace_key=762c8e71f3b24783ba9e88342ecdbac5-1650800269612-00990-_u9niyN&terminal_id=807486d66e2f4b4da99660d6cc6d73fb&afSmartRedirect=y)
 
 #### ***Vidéos utiles :***  
-
-- [Installation écran BTT TFT70](https://www.youtube.com/watch?v=vALnOhEb6vk&ab_channel=JSTECH) *(JSTECH)*  
+ 
 - [Changement du firmware](https://www.youtube.com/watch?v=z3LmcFhDHHk&ab_channel=JSTECH) *(JSTECH)*
 - [Maintenance Extrudeur](https://www.youtube.com/watch?v=TFeJfY321w8&ab_channel=DennisGignac) *(Dennis Gignac)*
-- [Maintenance extrudeur + installation PEI](https://www.youtube.com/watch?v=aKYDvgTuacc&t=3s&ab_channel=JSTECH) *(JSTECH)*  
-- [Installation BondTech LGX Lite](https://www.youtube.com/watch?v=Ql5lIAr7H58&ab_channel=JSTECH) *(JSTECH)*  
+- [Maintenance extrudeur + installation PEI](https://www.youtube.com/watch?v=aKYDvgTuacc&t=3s&ab_channel=JSTECH) *(JSTECH)*   
 - [Remplacement de l'extrudeur](https://youtu.be/rzaumVlEIZM) *(FLSUN)*
 - [Ajuster la tension des courroies](https://www.youtube.com/watch?v=N3sxU1_EIXY&ab_channel=FLSUN) *(FLSUN)*  
 - [Maintenance des courroies et des rails linéaires](https://www.youtube.com/watch?v=05de4OFZCg0&ab_channel=DennisGignac) *(Dennis Gignac)*
