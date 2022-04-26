@@ -5,6 +5,7 @@
 
 # Bondtech LGX Lite
 - [Bondtech LGX Lite Support](https://www.thingiverse.com/thing:5138588)
+  - [Installation BondTech LGX Lite](https://www.youtube.com/watch?v=Ql5lIAr7H58&ab_channel=JSTECH) *(JSTECH)* 
 
 # Cable clip
 
