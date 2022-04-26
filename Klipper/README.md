@@ -2,9 +2,10 @@
   <img src="https://user-images.githubusercontent.com/62854582/165336191-0ab57463-6fc6-4fad-8408-ae8a53b843ed.png" width="300"/>  
 </p>
 
-
-***Si vous souhaitez installer Klipper sur votre SR voici quelques liens à suivre :***
-
+<p align="center">
+  <b>Si vous souhaitez installer Klipper sur votre SR voici quelques liens à suivre</b><br>
+  </p>
+  
 ### INSTALLATION :
 
 - [Github Danorder](https://github.com/danorder/Flsun-super-racer-Full-klipper-config-)
