@@ -3,9 +3,6 @@
 - [5015 Blower Fan Adapter](https://www.thingiverse.com/thing:4917075)
 - [5015 Double Blower Fan Housing and Ducts for Volcano Block](https://www.thingiverse.com/thing:5212844)
 
-# Boîtier FLSUN SR
-- [Cults3D](https://cults3d.com/fr/mod%C3%A8le-3d/outil/flsun-sr-enclosure?fbclid=IwAR1JONtGoYqagSjnuvRtHgYc1NEghyZTWSvEv5xiKH0hAiamdzTrfe1ZtxA)
-
 # Bondtech LGX Lite
 - [Bondtech LGX Lite Support](https://www.thingiverse.com/thing:5138588)
 
@@ -21,6 +18,9 @@
 # Divers
 
 - [Micro SD Card Extender Holder](https://www.thingiverse.com/thing:4880358)
+
+# Enclosure
+- [Cults3D](https://cults3d.com/fr/mod%C3%A8le-3d/outil/flsun-sr-enclosure?fbclid=IwAR1JONtGoYqagSjnuvRtHgYc1NEghyZTWSvEv5xiKH0hAiamdzTrfe1ZtxA)
 
 # Fan Duct
 
