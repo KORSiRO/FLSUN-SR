@@ -15,10 +15,10 @@
 
 ### CALIBRATION :
 
-1. [Probe Calibration](https://www.klipper3d.org/Probe_Calibrate.html)
-2. [Delta Calibration](https://www.klipper3d.org/Delta_Calibrate.html)
-3. [Bed Mesh](https://www.klipper3d.org/Bed_Mesh.html)
-4. [Pressure Advance](https://www.klipper3d.org/Pressure_Advance.html)
-5. [Slicers](https://www.klipper3d.org/Slicers.html)
-6. [Endstop Phase](https://www.klipper3d.org/Endstop_Phase.html)
-7. [Resonance Compensation](https://www.klipper3d.org/Resonance_Compensation.html)
+- [Probe Calibration](https://www.klipper3d.org/Probe_Calibrate.html)
+- [Delta Calibration](https://www.klipper3d.org/Delta_Calibrate.html)
+- [Bed Mesh](https://www.klipper3d.org/Bed_Mesh.html)
+- [Pressure Advance](https://www.klipper3d.org/Pressure_Advance.html)
+- [Slicers](https://www.klipper3d.org/Slicers.html)
+- [Endstop Phase](https://www.klipper3d.org/Endstop_Phase.html)
+- [Resonance Compensation](https://www.klipper3d.org/Resonance_Compensation.html)
