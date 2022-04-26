@@ -1,0 +1,1 @@
+- [Installation Sherpa mini](https://3dprintbeginner.com/sherpa-mini-direct-drive-upgrade-for-flsun-super-racer/)
