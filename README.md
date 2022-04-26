@@ -190,7 +190,6 @@ Si Klipper vous tente aller voir par ici > [KLIPPER](https://github.com/KORSiRO/
 - [Mise à jour et réglages Flsun SuperRacer](https://www.youtube.com/watch?v=1fjbWBlSdbM&ab_channel=OlivierRichard3DLand-Shop) *(Olivier Richard 3DLand-Shop)*  
 - [Imprimer via PC > USB](https://youtu.be/wfSc23aPTmI) *(FLSUN)*
 - [Flsun Super racer réglages Cura](https://www.youtube.com/watch?v=cN8M4Pxr6G8&ab_channel=Infosettutosinformatique) *(Infos et tutos informatique)*
-- [Vidéo Delta Calibration](https://www.youtube.com/watch?v=kgCOhYoABYo&ab_channel=IAMAMAKER) (*IAMAMAKER*)
 
 #### ***Liens utiles :***
 
