@@ -14,10 +14,14 @@
 
 - [Boitier écran LCD avec accès MicroSD](https://www.thingiverse.com/thing:5159856)
 - [Screen Mount](https://www.thingiverse.com/thing:4943761)
+- [LCD case SD card slot](https://www.thingiverse.com/thing:5269181)
 
 # Divers
 
 - [Micro SD Card Extender Holder](https://www.thingiverse.com/thing:4880358)
+- [Nozzle Box](https://www.thingiverse.com/thing:4967904)
+- [Light switch](https://www.thingiverse.com/thing:5241993)
+- [Tools holder](https://www.thingiverse.com/thing:4890362)
 
 # Enclosure
 - [Cults3D](https://cults3d.com/fr/mod%C3%A8le-3d/outil/flsun-sr-enclosure?fbclid=IwAR1JONtGoYqagSjnuvRtHgYc1NEghyZTWSvEv5xiKH0hAiamdzTrfe1ZtxA)
@@ -26,6 +30,7 @@
 
 - [Fan Duct (Radial with Offset)](https://www.thingiverse.com/thing:4916950)
 - [NSK Xquad Fanducts (5 versions)](https://www.thingiverse.com/thing:4950102)
+- [NSK Dual-C fanducts](https://www.thingiverse.com/thing:4950606)
 
 # Feet SR
 
@@ -38,6 +43,7 @@
 # Filament Spool
 
 - [Filament Spool Carriage](https://www.thingiverse.com/thing:5316580)
+- [Spool Holder](https://www.thingiverse.com/thing:4938975)
 
 # LED
 
@@ -59,3 +65,4 @@
 # Tools
 
 - [Maintenance tools](https://www.thingiverse.com/thing:4965008)
+- [SR Tools](https://www.thingiverse.com/thing:4855803)
