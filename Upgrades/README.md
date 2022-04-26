@@ -30,7 +30,7 @@
 
 # Feet SR
 
-- [Feet Replacement(https://www.thingiverse.com/thing:4890538)
+- [Feet Replacement](https://www.thingiverse.com/thing:4890538)
 
 # Filament Sensor
 
@@ -59,7 +59,7 @@
 
 # Tools
 
--[Maintenance tools](https://www.thingiverse.com/thing:4965008)
+- [Maintenance tools](https://www.thingiverse.com/thing:4965008)
 
 
 
