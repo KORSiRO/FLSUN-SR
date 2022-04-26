@@ -156,6 +156,10 @@ Voici une vidéo du GüeroLoco qui explique tout en détails et de façon préci
 
 - [Modifications Firmware Guilouz](https://github.com/Guilouz/Marlin-SuperRacer-MKS-Nano-V3#possible-changes)  
 
+# KLIPPER  
+
+Si Klipper vous tente aller voir par ici > [KLIPPER](https://github.com/KORSiRO/FLSUN-SR/tree/main/Klipper)
+
 # ACHATS / UPGRADES
 
 - [Pack Volcano MAX Hotends.fr](https://www.hotends.fr/fr/accueil/121-pack-v-max.html)
