@@ -38,12 +38,12 @@
 
 # Filament Spool
 
--[Filament Spool Carriage(https://www.thingiverse.com/thing:5316580)
+-[Filament Spool Carriage](https://www.thingiverse.com/thing:5316580)
 
 # LED
 
 - [Led Support](https://www.thingiverse.com/thing:5177517)
-- [LED Ring Light Mount](https://www.thingiverse.com/thing:4921738
+- [LED Ring Light Mount](https://www.thingiverse.com/thing:4921738)
 
 
 # SHERPA MINI
@@ -59,7 +59,7 @@
 
 # Tools
 
--[Maintenance tools(https://www.thingiverse.com/thing:4965008)
+-[Maintenance tools](https://www.thingiverse.com/thing:4965008)
 
 
 
