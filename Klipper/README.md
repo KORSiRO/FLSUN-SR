@@ -7,3 +7,6 @@
 
 - [Github orecus](https://github.com/orecus/FLSUN-SR---Klipper)
 - [3dPrintBeginner](https://3dprintbeginner.com/klipper-on-flsun-super-racer/)
+- [Github MKS Klipper](https://github.com/makerbase-mks/Klipper-for-MKS-Boards)
+- [FluiddPI](https://docs.fluidd.xyz/installation/fluiddpi)
+- [MainsailOS](https://docs.mainsail.xyz/setup/mainsail-os)
