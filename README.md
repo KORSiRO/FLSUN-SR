@@ -96,7 +96,7 @@
 - Entrer la commande  
   - `M500` *(Sauvegarder)*
 
-### 3. Extrudeur :
+### 3. Extrudeur :  
 
 - Faire une marque à `120 mm`
 - Retirer le PTFE du dessous de l'extrudeur *(extrusion à froid)*
