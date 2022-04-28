@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Si vous souhaitez installer Klipper sur votre SR voici quelques liens à suivre</b><br>
+  <b>Si vous souhaitez installer Klipper sur votre SR voici quelques liens pour vous aider</b>
   </p>
   
 
