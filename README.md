@@ -163,7 +163,7 @@ Si Klipper vous tente aller voir par ici > [KLIPPER](https://github.com/KORSiRO/
 # ACHATS / UPGRADES
 
 - [Alimentation MEAN WELL 350w](https://fr.aliexpress.com/item/1005002054981187.html?gatewayAdapt=glo2fra&spm=a2g0o.order_list.0.0.21ef5e5bi97cvc)
-- - [BondTech LGX Lite Large Gears](https://www.3djake.fr/bondtech/extrudeuse-lgx-lite-large-gears?gclid=Cj0KCQjw6pOTBhCTARIsAHF23fLTZgbtQpC4bbwAT2e_H9K49WKUpjRObBl-nS-dZ4m-in6CQF5-uQEaAnnFEALw_wcB)
+- [BondTech LGX Lite Large Gears](https://www.3djake.fr/bondtech/extrudeuse-lgx-lite-large-gears?gclid=Cj0KCQjw6pOTBhCTARIsAHF23fLTZgbtQpC4bbwAT2e_H9K49WKUpjRObBl-nS-dZ4m-in6CQF5-uQEaAnnFEALw_wcB)
 - [Direct Drive Sherpa Mini](https://fr.aliexpress.com/item/1005002487727392.html?aff_fcid=9acd42f568964aa1b70ac68b3436e745-1650800119514-00039-_ADRvOs&tt=CPS_NORMAL&aff_fsk=_ADRvOs&aff_platform=portals-tool&sk=_ADRvOs&aff_trace_key=9acd42f568964aa1b70ac68b3436e745-1650800119514-00039-_ADRvOs&terminal_id=807486d66e2f4b4da99660d6cc6d73fb&afSmartRedirect=y)
 - [Heatbreak Bi-Metal](https://www.amazon.fr/Bim%C3%A9tallique-thermique-temp%C3%A9rature-imprimante-Creality/dp/B0971FNCM4/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3LLF9IN7JCGUA&keywords=Bim%C3%A9tallique+thermique+en+cuivre+et+titane+TC4+haute+temp%C3%A9rature+pour+imprimante+3D+CR10+S4+S5+Ender+3+V2+Ender3+Pro+Ender+5+CS3+Hotend+Upgrade&qid=1650799920&s=industrial&sprefix=bim%C3%A9tallique+thermique+en+cuivre+et+titane+tc4+haute+temp%C3%A9rature+pour+imprimante+3d+cr10+s4+s5+ender+3+v2+ender3+pro+ender+5+cs3+hotend+upgrade%2Cindustrial%2C56&sr=1-1)  
 - [Magnet MK10 v2](https://www.hotends.fr/fr/accessoires/71-234-magnetmk10-v2.html#/47-qualite-capricorn_xs_19x4mm/76-extrudeur-taraudage_g1_8_m10/100-longueur-55_cm_flsun_sr)
