@@ -165,6 +165,7 @@ Si Klipper vous tente aller voir par ici > [KLIPPER](https://github.com/KORSiRO/
 - [Pack Volcano MAX Hotends.fr](https://www.hotends.fr/fr/accueil/121-pack-v-max.html)
 - [Phaetus Hotend Rapido UHF](https://www.3djake.fr/phaetus/hotend-rapido-uhf)
 - [BondTech LGX Lite Large Gears](https://www.3djake.fr/bondtech/extrudeuse-lgx-lite-large-gears?gclid=Cj0KCQjw6pOTBhCTARIsAHF23fLTZgbtQpC4bbwAT2e_H9K49WKUpjRObBl-nS-dZ4m-in6CQF5-uQEaAnnFEALw_wcB)  
+- [OMG v2S](https://www.amazon.fr/Extrudeur-imprimante-double-entrainement-rapport/dp/B09PC93FFB)
 - [Pièces de rechange SR](https://www.3djake.fr/piecesdetachees/pieces-detachees-pour-flsun-super-racer)
 - [Magnet MK10 v2](https://www.hotends.fr/fr/accessoires/71-234-magnetmk10-v2.html#/47-qualite-capricorn_xs_19x4mm/76-extrudeur-taraudage_g1_8_m10/100-longueur-55_cm_flsun_sr)
 - [Plateau PEI](https://fr.aliexpress.com/item/1005003198020145.html?aff_fcid=a7a2f9a1cd5b4b988651b158c3cb547c-1650799798770-00492-_AC1P64&tt=CPS_NORMAL&aff_fsk=_AC1P64&aff_platform=shareComponent-detail&sk=_AC1P64&aff_trace_key=a7a2f9a1cd5b4b988651b158c3cb547c-1650799798770-00492-_AC1P64&terminal_id=807486d66e2f4b4da99660d6cc6d73fb&afSmartRedirect=y)
