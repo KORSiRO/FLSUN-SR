@@ -27,7 +27,7 @@
 - Copier le fichier `Robin_nano_v3.bin` à la racine de la carte SD/clé USB 
 - Connecter la carte SD/clé usb à l'imprimante et l'allumer 
 - Attendre quelques secondes que l'écran arrive à l'accueil
-- Vérifier sur la `carte SD` que le fichier `Robin_nano_v3.bin` a été renommé en `ROBIN_NANO_V3.CUR` (flash réussi)
+- Retirer la `carte SD` de l'imprimante
 - Faire de nouveau un `Reset EEPROM`  
   - `M502` *(Reset EEPROM)*  
   - `M500` *(Sauvegarder)*
