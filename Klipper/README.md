@@ -9,6 +9,7 @@
 
 - [Github Danorder](https://github.com/danorder/Flsun-super-racer-Full-klipper-config-)
 - [Github Orecus](https://github.com/orecus/FLSUN-SR---Klipper)
+- [How to convert to Klipper firmware: 32 bit delta step by step](https://www.youtube.com/watch?v=Cj7KpzbgExQ) *(Teaching Tech)*
 - [3dPrintBeginner](https://3dprintbeginner.com/klipper-on-flsun-super-racer/)
 - [Github MKS Klipper](https://github.com/makerbase-mks/Klipper-for-MKS-Boards)
 - [FluiddPI](https://docs.fluidd.xyz/installation/fluiddpi)
