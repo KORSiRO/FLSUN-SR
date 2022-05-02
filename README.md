@@ -180,6 +180,7 @@ Si Klipper vous tente aller voir par ici > [KLIPPER](https://github.com/KORSiRO/
 
 #### ***Vidéos utiles :***  
 
+- [Assemblage de la FLSUN SR](https://www.youtube.com/watch?v=59f16PuayAU&t=1s) *(FLSUN)*
 - [Installation de l'extrudeur OMG V2-S](https://www.youtube.com/watch?v=dvHlawF66Nw) *(My Tech Fun)*
 - [Modification du capteur de nivellement automatique](https://www.youtube.com/watch?v=T1W7mJphzoA) *(JSTECH)*
 - [Changement du firmware](https://www.youtube.com/watch?v=z3LmcFhDHHk&ab_channel=JSTECH) *(JSTECH)*
