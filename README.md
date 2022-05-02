@@ -179,7 +179,8 @@ Si Klipper vous tente aller voir par ici > [KLIPPER](https://github.com/KORSiRO/
 
 
 #### ***Vidéos utiles :***  
- 
+
+- [Installation de l'extrudeur OMG V2-S](https://www.youtube.com/watch?v=dvHlawF66Nw) *(My Tech Fun)*
 - [Changement du firmware](https://www.youtube.com/watch?v=z3LmcFhDHHk&ab_channel=JSTECH) *(JSTECH)*
 - [Maintenance Extrudeur](https://www.youtube.com/watch?v=TFeJfY321w8&ab_channel=DennisGignac) *(Dennis Gignac)*
 - [Maintenance extrudeur + installation PEI](https://www.youtube.com/watch?v=aKYDvgTuacc&t=3s&ab_channel=JSTECH) *(JSTECH)*   
