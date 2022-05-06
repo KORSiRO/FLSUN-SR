@@ -17,6 +17,10 @@
 
 - [Firmware Foxies Nano v3 / BTT SKR 1.3](https://github.com/Foxies-CSTL/Marlin_2.0.x/tree/Firmwares/SR)
 
+# WIKI 
+
+- [Wiki Foxies](https://github.com/Foxies-CSTL/Marlin_2.0.x/wiki)
+
 ### 1. Installation firmware MKS Robin Nano v3 :
 
 - Faire un `Reset EEPROM` avant de flasher le nouveau firmware : 
