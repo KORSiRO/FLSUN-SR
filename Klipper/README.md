@@ -6,6 +6,7 @@
   <b>Si vous souhaitez installer Klipper sur votre SR voici quelques liens pour vous aider</b>
   </p>
   
+### INSTALLATION :
 
 - [Github Danorder](https://github.com/danorder/Flsun-super-racer-Full-klipper-config-)
 - [Github Orecus](https://github.com/orecus/FLSUN-SR---Klipper)
@@ -24,3 +25,8 @@
 - [Slicers](https://www.klipper3d.org/Slicers.html)
 - [Endstop Phase](https://www.klipper3d.org/Endstop_Phase.html)
 - [Resonance Compensation](https://www.klipper3d.org/Resonance_Compensation.html)
+
+### CONFIGURATION :
+
+- [Configuartion SR : Printer.cfg](https://gist.github.com/tuannat/d5720b08c07a4f2943cd69413ca908df?fbclid=IwAR1rFx1J6orTyAcVE1YuAUgp8sqxx7WrkDAzW4bPrI1Q-HyW3n44g2t0VJs)
+
