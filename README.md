@@ -147,6 +147,8 @@ Si besoin se référer au document `Delta Calibration Calculator`
 
 - [Vidéo Delta Calibration](https://www.youtube.com/watch?v=kgCOhYoABYo&ab_channel=IAMAMAKER) (*IAMAMAKER*)
 
+- [Calibration et réglages](https://github.com/Foxies-CSTL/Marlin_2.0.x/wiki/2.SETTINGS-THE-PRINTER) (*Foxies*)
+
 ### 5. Linear Advance
 
 Voici une vidéo du GüeroLoco qui explique tout en détails et de façon précise !
