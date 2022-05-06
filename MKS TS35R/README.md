@@ -3,3 +3,4 @@
 - [Firmware MKS TS35/TS35R 16 Microsteps](https://github.com/Foxies-CSTL/Marlin_2.0.x/blob/Firmwares/SR/SRM%2BTS35-SCWBPULR-Robin_nano_v3.bin)  
   - Renommer le firmware en `Robin_nano_v3.bin` 
 - [Case MKS TS35R](https://www.thingiverse.com/thing:5327125)
+- [Case MKS TS35](https://www.thingiverse.com/thing:5265394)
