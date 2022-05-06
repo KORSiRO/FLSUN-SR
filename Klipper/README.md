@@ -29,4 +29,4 @@
 ### CONFIGURATION :
 
 - [Configuartion SR : Printer.cfg](https://gist.github.com/tuannat/d5720b08c07a4f2943cd69413ca908df?fbclid=IwAR1rFx1J6orTyAcVE1YuAUgp8sqxx7WrkDAzW4bPrI1Q-HyW3n44g2t0VJs)
-
+`please skip pressure_advance, input_shaper config and calibrate your extruder rotation distance base on yours`
