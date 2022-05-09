@@ -21,6 +21,10 @@
 
 - [Wiki Foxies](https://github.com/Foxies-CSTL/Marlin_2.0.x/wiki)
 
+# Mise à jour Firmware
+
+- [Vidéo MAJ Firmware v1.4](https://www.youtube.com/watch?v=yehdSc0RL4w) (*Marc Lacome*)
+
 ### 1. Installation firmware MKS Robin Nano v3 :
 
 - Faire un `Reset EEPROM` avant de flasher le nouveau firmware : 
@@ -45,8 +49,6 @@
 - Attendre la fin de la MAJ
 
 <img src="https://user-images.githubusercontent.com/62854582/163845798-b82c77e4-c3e4-41aa-9e31-cc1e15ac41fc.png" width="300">
-
-- [Vidéo MAJ Firmware v1.4](https://www.youtube.com/watch?v=yehdSc0RL4w) (*Marc Lacome*)
 
 # CALIBRATION  
 
