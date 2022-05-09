@@ -107,6 +107,8 @@
 
 ### 3. Extrudeur : 
 
+- [Vidéo réglages Extrudeur](https://www.youtube.com/watch?v=TRngYi4D-iw) (*Marc Lacome*)
+
 - Faire une marque à `120 mm`
 - Retirer le PTFE du dessous de l'extrudeur *(extrusion à froid)*
 - Extruder `100mm`
