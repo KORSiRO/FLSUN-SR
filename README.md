@@ -5,9 +5,26 @@
   <img src="https://user-images.githubusercontent.com/62854582/164056911-da4a19c8-fc3c-45bd-b51c-186f05931f83.png" width="470"/>  
 </p>  
   
+# SOMMAIRE
+
+- [Firmware](https://github.com/KORSiRO/FLSUN-SR#flsun-sr-firmware)
+- [Wiki](https://github.com/KORSiRO/FLSUN-SR#wiki)
+- [MAJ Firmware](https://github.com/KORSiRO/FLSUN-SR#maj-firmware)
+- [Calibration](https://github.com/KORSiRO/FLSUN-SR#calibration)
+  - [PID Buse (v1.4)](https://github.com/KORSiRO/FLSUN-SR#1-pid-buse-firmware-14-)
+  - [PID Buse Pronterface](https://github.com/KORSiRO/FLSUN-SR#12-pid-buse-depuis-pronterface-ou-octoprint-)
+  - [PID Bed (v1.4)](https://github.com/KORSiRO/FLSUN-SR#2-pid-bed-firmware-14-)
+  - [PID Bed Pronterface](https://github.com/KORSiRO/FLSUN-SR#22-pid-bed-depuis-pronterface-ou-octoprint-)
+  - [Extrudeur](https://github.com/KORSiRO/FLSUN-SR#3-extrudeur-)
+- [Delta Calibration](https://github.com/KORSiRO/FLSUN-SR#4-delta-calibration-)
+- [Linear Advance](https://github.com/KORSiRO/FLSUN-SR#5-linear-advance)
+- [Modifications Firmware](https://github.com/KORSiRO/FLSUN-SR#modifications-firmware)
+- [Klipper](https://github.com/KORSiRO/FLSUN-SR#klipper)
+- [Achats/Upgrades](https://github.com/KORSiRO/FLSUN-SR#achats--upgrades)
+- [Vidéos Utiles](https://github.com/KORSiRO/FLSUN-SR#vid%C3%A9os-utiles-)
+- [Liens Utiles](https://github.com/KORSiRO/FLSUN-SR#liens-utiles-)
   
-  
-# FLSUN-SR FIRMWARE  
+# FIRMWARE  
 
 - [Firmware Stock v1.3](https://github.com/KORSiRO/FLSUN-SR/tree/main/Firmware%20STOCK/Firmware%20v1.3)
 
