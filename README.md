@@ -46,9 +46,12 @@
 
 <img src="https://user-images.githubusercontent.com/62854582/163845798-b82c77e4-c3e4-41aa-9e31-cc1e15ac41fc.png" width="300">
 
+- [Vidéo MAJ Firmware v1.4](https://www.youtube.com/watch?v=yehdSc0RL4w) (*Marc Lacome*)
+
 # CALIBRATION  
 
 - [Télécharger Printrun *(Pronterface)*](https://github.com/kliment/Printrun/releases)
+- [Réglages Firmware v1.4](https://www.youtube.com/watch?v=Xahf28nMHUY) (*Marc Lacome*)
 
 ### 1. PID Buse (firmware 1.4) :
 
@@ -219,4 +222,4 @@ En espérant que vous trouviez réponses à vos questions :wink:*
 
 
 
-*[Guilouz](https://github.com/Guilouz), [Foxies](https://github.com/Foxies-CSTL), [pyriame](https://www.lesimprimantes3d.fr/forum/profile/13525-pyriame/), [Le GüeroLoco](https://www.youtube.com/channel/UCrFGsH4pplqjFXJqLcjykNQ), [JSTECH](https://www.youtube.com/channel/UCEnNq7HN3JwuOjVAEmzGEbw), [Motard Geek](https://www.lesimprimantes3d.fr/forum/profile/2-motard-geek/), [Les Imprimantes 3D](https://www.lesimprimantes3d.fr/), [3DPrintBeginner](https://3dprintbeginner.com), [Denis Gignac](https://www.youtube.com/channel/UCZaTi2oW15syhG-VStDF8QQ), [Olivier Richard 3DLand-Shop](https://www.youtube.com/channel/UC7RgbWvwyzr6SnVPcy7GbEA), [Infos et tutos Informatique](https://www.youtube.com/channel/UC25vp3h-86eAkkBLsV13FEg), [IAMAMAKER](https://www.youtube.com/channel/UC69hBzipW2Xp_xWK2dnpZ0A)*
+*[Guilouz](https://github.com/Guilouz), [Foxies](https://github.com/Foxies-CSTL), [Marc Lacome](https://www.youtube.com/channel/UCLqBYBC_OC8KNELy-IhUVLQ), [pyriame](https://www.lesimprimantes3d.fr/forum/profile/13525-pyriame/), [Le GüeroLoco](https://www.youtube.com/channel/UCrFGsH4pplqjFXJqLcjykNQ), [JSTECH](https://www.youtube.com/channel/UCEnNq7HN3JwuOjVAEmzGEbw), [Motard Geek](https://www.lesimprimantes3d.fr/forum/profile/2-motard-geek/), [Les Imprimantes 3D](https://www.lesimprimantes3d.fr/), [3DPrintBeginner](https://3dprintbeginner.com), [Denis Gignac](https://www.youtube.com/channel/UCZaTi2oW15syhG-VStDF8QQ), [Olivier Richard 3DLand-Shop](https://www.youtube.com/channel/UC7RgbWvwyzr6SnVPcy7GbEA), [Infos et tutos Informatique](https://www.youtube.com/channel/UC25vp3h-86eAkkBLsV13FEg), [IAMAMAKER](https://www.youtube.com/channel/UC69hBzipW2Xp_xWK2dnpZ0A)*
