@@ -21,7 +21,7 @@
 
 - [Wiki Foxies](https://github.com/Foxies-CSTL/Marlin_2.0.x/wiki)
 
-# Mise à jour Firmware
+# MAJ Firmware
 
 - [Vidéo MAJ Firmware v1.4](https://www.youtube.com/watch?v=yehdSc0RL4w) (*Marc Lacome*)
 
