@@ -23,7 +23,12 @@
 - [Achats/Upgrades](https://github.com/KORSiRO/FLSUN-SR#achats--upgrades)
 - [Vidéos Utiles](https://github.com/KORSiRO/FLSUN-SR#vid%C3%A9os-utiles-)
 - [Liens Utiles](https://github.com/KORSiRO/FLSUN-SR#liens-utiles-)
-  
+
+<p align="center">  
+  <img src="https://user-images.githubusercontent.com/62854582/167453252-4d56af55-5019-40cb-adab-ad352044c182.png" width="1666"/>  
+</p>
+
+
 # FIRMWARE  
 
 - [Firmware Stock v1.3](https://github.com/KORSiRO/FLSUN-SR/tree/main/Firmware%20STOCK/Firmware%20v1.3)
