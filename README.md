@@ -24,10 +24,10 @@
 - [Vidéos Utiles](https://github.com/KORSiRO/FLSUN-SR#vid%C3%A9os-utiles-)
 - [Liens Utiles](https://github.com/KORSiRO/FLSUN-SR#liens-utiles-)
 
-<p align="center">  
-  <img src="https://user-images.githubusercontent.com/62854582/167453252-4d56af55-5019-40cb-adab-ad352044c182.png" width="1666"/>  
-</p>
 
+<p align="center">  
+  <img src="https://user-images.githubusercontent.com/62854582/167669092-4a8a8bbb-ee5d-487c-b9f2-bc66dcab2f81.png" width="1666"/>  
+</p>
 
 # FIRMWARE  
 
@@ -37,9 +37,19 @@
 - [Firmware Guilouz Nano v3](https://github.com/Guilouz/Marlin-SuperRacer-MKS-Nano-V3)  
 
 
+<p align="center">  
+  <img src="https://user-images.githubusercontent.com/62854582/167669092-4a8a8bbb-ee5d-487c-b9f2-bc66dcab2f81.png" width="1666"/>  
+</p>
+
+
 # WIKI 
 
 - [Wiki Foxies](https://github.com/Foxies-CSTL/Marlin_2.0.x/wiki)
+
+
+<p align="center">  
+  <img src="https://user-images.githubusercontent.com/62854582/167669092-4a8a8bbb-ee5d-487c-b9f2-bc66dcab2f81.png" width="1666"/>  
+</p>
 
 # MAJ Firmware
 
@@ -70,6 +80,11 @@
 - Attendre la fin de la MAJ
 
 <img src="https://user-images.githubusercontent.com/62854582/163845798-b82c77e4-c3e4-41aa-9e31-cc1e15ac41fc.png" width="300">
+
+
+<p align="center">  
+  <img src="https://user-images.githubusercontent.com/62854582/167669092-4a8a8bbb-ee5d-487c-b9f2-bc66dcab2f81.png" width="1666"/>  
+</p>
 
 # CALIBRATION  
 
@@ -182,19 +197,33 @@ Si besoin se référer au document `Delta Calibration Calculator`
 - [Calibration et réglages](https://github.com/Foxies-CSTL/Marlin_2.0.x/wiki/2.SETTINGS-THE-PRINTER) (*Foxies*)
 - [Vidéo Delta Calibration](https://www.youtube.com/watch?v=kgCOhYoABYo&ab_channel=IAMAMAKER) (*IAMAMAKER*)
 
-
 ### 5. Linear Advance
 
 Voici une vidéo du GüeroLoco qui explique tout en détails et de façon précise !
 - [Linear Advance](https://www.youtube.com/watch?v=f6fzJTsnpds&ab_channel=LeG%C3%BCeroLoco)
 
+
+<p align="center">  
+  <img src="https://user-images.githubusercontent.com/62854582/167669092-4a8a8bbb-ee5d-487c-b9f2-bc66dcab2f81.png" width="1666"/>  
+</p>
+
 # MODIFICATIONS FIRMWARE  
 
 - [Modifications Firmware Guilouz](https://github.com/Guilouz/Marlin-SuperRacer-MKS-Nano-V3#possible-changes)  
 
+
+<p align="center">  
+  <img src="https://user-images.githubusercontent.com/62854582/167669092-4a8a8bbb-ee5d-487c-b9f2-bc66dcab2f81.png" width="1666"/>  
+</p>
+
 # KLIPPER  
 
 Si Klipper vous tente aller voir par ici > [KLIPPER](https://github.com/KORSiRO/FLSUN-SR/tree/main/Klipper)
+
+
+<p align="center">  
+  <img src="https://user-images.githubusercontent.com/62854582/167669092-4a8a8bbb-ee5d-487c-b9f2-bc66dcab2f81.png" width="1666"/>  
+</p>
 
 # ACHATS / UPGRADES
 
@@ -214,6 +243,10 @@ Si Klipper vous tente aller voir par ici > [KLIPPER](https://github.com/KORSiRO/
 - [Volcano Trianglelab](https://fr.aliexpress.com/item/4000012110390.html?spm=a2g0o.productlist.0.0.669a63e4YIjKLt&algo_pvid=44039fdb-9ffe-4438-a24a-f9b54e87f1f7&algo_exp_id=44039fdb-9ffe-4438-a24a-f9b54e87f1f7-9&pdp_ext_f=%7B%22sku_id%22%3A%2210000000031213284%22%7D&pdp_pi=-1%3B8.57%3B-1%3B-1%40salePrice%3BEUR%3Bsearch-mainSearch)  
 
 
+<p align="center">  
+  <img src="https://user-images.githubusercontent.com/62854582/167669092-4a8a8bbb-ee5d-487c-b9f2-bc66dcab2f81.png" width="1666"/>  
+</p>
+
 #### ***Vidéos utiles :***  
 
 - [Assemblage de la FLSUN SR](https://www.youtube.com/watch?v=59f16PuayAU&t=1s) *(FLSUN)*
@@ -231,6 +264,11 @@ Si Klipper vous tente aller voir par ici > [KLIPPER](https://github.com/KORSiRO/
 - [Mise à jour et réglages Flsun SuperRacer](https://www.youtube.com/watch?v=1fjbWBlSdbM&ab_channel=OlivierRichard3DLand-Shop) *(Olivier Richard 3DLand-Shop)*  
 - [Imprimer via PC > USB](https://youtu.be/wfSc23aPTmI) *(FLSUN)*
 - [Flsun Super racer réglages Cura](https://www.youtube.com/watch?v=cN8M4Pxr6G8&ab_channel=Infosettutosinformatique) *(Infos et tutos informatique)*
+
+
+<p align="center">  
+  <img src="https://user-images.githubusercontent.com/62854582/167669092-4a8a8bbb-ee5d-487c-b9f2-bc66dcab2f81.png" width="1666"/>  
+</p>
 
 #### ***Liens utiles :***
 
