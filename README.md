@@ -148,7 +148,8 @@
 - Entrer la commande
   - `M500` *(Sauvegarder)*
 
-- ***Je vous mets à disposition un fichier Excel que j'ai créé pour faciliter les calculs de calibration :***
+- ***Je vous mets à disposition un fichier Excel que j'ai créé pour faciliter les calculs de calibration pour l'extrudeur :***
+*(Les calculs des axes sont faits pour les imprimantes cartésiennes et non Delta)
   - [CALIBRATION AUTOMATISÉ IMPRESSION 3D](https://github.com/KORSiRO/FLSUN-SR/raw/main/Calibration/CALIBRATION%20AUTOMATIS%C3%89%20IMPRESSION%203D.xlsm)
 
 <img src="https://user-images.githubusercontent.com/62854582/164967442-7625912c-e8dd-4232-b42c-b5381321197a.png" width="900">
