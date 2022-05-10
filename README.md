@@ -155,7 +155,6 @@
 
 <img src="https://user-images.githubusercontent.com/62854582/164967442-7625912c-e8dd-4232-b42c-b5381321197a.png" width="900">
 
-
 **PS** : activer les macros sous Excel pour enregistrer vos valeurs
 
 ### 4. Delta Calibration :
@@ -164,7 +163,7 @@
 
 - Connecter la sonde pour le leveling
 - Chauffer le lit à votre température habituelle 
-- Depuis Pronterface ou autre, lancer la commande  
+- Depuis Pronterface, lancer la commande  
   - `G33 V3`
 - Attendre la fin et enregistrer avec la commande  
   - `M500`
@@ -176,8 +175,6 @@
   - Déplacer la buse à la hauteur `Z=0`
   - Placer un papier et ajuster le Z-Offset depuis l'écran de la SR
   - Sauvegarder
-
-Si besoin se référer au document `Delta Calibration Calculator`
 
 - [Delta Calibration Calculator](https://github.com/Guilouz/Marlin-SuperRacer-MKS-Nano-V3/files/8146727/Delta.Calibration.Calculator.zip) *(Guilouz)*  
 - [Delta Calibration](https://github.com/Foxies-CSTL/Marlin_2.0.x/wiki/2.SETTINGS-THE-PRINTER#21-delta-calibration) *(Foxies)* 
