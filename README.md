@@ -164,17 +164,17 @@
 - Connecter la sonde pour le leveling
 - Chauffer le lit à votre température habituelle
 - Depuis Pronterface, lancer la commande  
-  - `G33 V3`
+- `G33 V3`
 - Attendre la fin et enregistrer avec la commande  
-  - `M500`
+- `M500`
 - Retirer la sonde de leveling
 - Réglez votre Z Offset
-  - Désactiver les Endstops avec la commande `M121 S0` ou depuis l'écran de la SR
-  - Chauffer la buse à votre température d'impression *(200-220° et sans filament pour éviter qu'il ne coule de la buse)*
-  - Chauffer le lit à votre température d'impression *(60-70°)*
-  - Déplacer la buse à la hauteur `Z=0`
-  - Placer un papier et ajuster le Z-Offset depuis l'écran de la SR
-  - Sauvegarder
+- Désactiver les Endstops avec la commande `M121 S0` ou depuis l'écran de la SR
+- Chauffer la buse à votre température d'impression *(200-220° et sans filament pour éviter qu'il ne coule de la buse)*
+- Chauffer le lit à votre température d'impression *(60-70°)*
+- Déplacer la buse à la hauteur `Z=0`
+- Placer un papier et ajuster le Z-Offset depuis l'écran de la SR
+- Sauvegarder
 
 
 - [Delta Calibration Calculator](https://github.com/Guilouz/Marlin-SuperRacer-MKS-Nano-V3/files/8146727/Delta.Calibration.Calculator.zip) *(Guilouz)*  
