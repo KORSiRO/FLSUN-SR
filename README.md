@@ -50,7 +50,8 @@
 ### 1. Installation firmware MKS Robin Nano v3 :
 
 - Faire un `Reset EEPROM` avant de flasher le nouveau firmware : 
-  - `M502` *(Reset EEPROM)*   
+  - `M502` *(Reset EEPROM)*
+  - `M501` *(Restore default)*   
   - `M500` *(Sauvegarder)*
 - Choisir le `Firmware` en suivant les liens ci-dessus
 - Formater une `carte SD` ou une `clé USB` en `FAT32 4096 octets`  
