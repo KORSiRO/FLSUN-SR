@@ -54,7 +54,7 @@
   - `M501` *(Restore default)*   
   - `M500` *(Sauvegarder)*
 - Choisir le `Firmware` en suivant les liens ci-dessus
-- Formater une `carte SD` ou une `clé USB` en `FAT32 4096 octets`  
+- Formater une `carte SD` ou une `clé USB` de moins de `16Go` en `FAT32 4096 octets`  
 - Copier le fichier `Robin_nano_v3.bin` à la racine de la carte SD/clé USB 
 - Connecter la carte SD/clé usb à l'imprimante et l'allumer 
 - Attendre quelques secondes que l'écran arrive à l'accueil
