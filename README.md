@@ -18,7 +18,7 @@
   - [Extrudeur](https://github.com/KORSiRO/FLSUN-SR#3-extrudeur-)
 - [Delta Calibration](https://github.com/KORSiRO/FLSUN-SR#4-delta-calibration-)
 - [Linear Advance](https://github.com/KORSiRO/FLSUN-SR#5-linear-advance)
-- [Modifications Firmware](https://github.com/KORSiRO/FLSUN-SR#modifications-firmware)
+- [Modifier son Firmware](https://github.com/KORSiRO/FLSUN-SR/blob/main/README.md#modifier-son-firmware)
 - [Klipper](https://github.com/KORSiRO/FLSUN-SR#klipper)
 - [Achats/Upgrades](https://github.com/KORSiRO/FLSUN-SR#achats--upgrades)
 - [Vidéos Utiles](https://github.com/KORSiRO/FLSUN-SR#vid%C3%A9os-utiles-)
