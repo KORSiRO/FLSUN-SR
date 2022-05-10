@@ -274,6 +274,7 @@ Si Klipper vous tente aller voir par ici > [KLIPPER](https://github.com/KORSiRO/
 
 #### ***Liens utiles :***
 
+- [Astuces GCODE](https://github.com/Foxies-CSTL/Marlin_2.0.x/wiki/7.TIPS#77-gcodes_tips) 
 - [Acheter la FLSUN SR sur le site FLSUN Officiel](https://flsun3d.com/products/super-racer-sr?variant=40603765964968)
 - [Achat d'upgrades FLSUN SR](https://3dprintbeginner.com/flsun-super-racer-upgrades/)
 - [Forum FLSUN SR](https://www.lesimprimantes3d.fr/forum/140-flsun-3d/)
