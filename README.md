@@ -162,7 +162,7 @@
 <img src="https://user-images.githubusercontent.com/62854582/164052174-66a85777-bf06-4e9e-a63b-a6fb0d2b1a4f.png" width="350">
 
 - Connecter la sonde pour le leveling
-- Chauffer le lit à votre température habituelle 
+- Chauffer le lit à votre température habituelle
 - Depuis Pronterface, lancer la commande  
   - `G33 V3`
 - Attendre la fin et enregistrer avec la commande  
@@ -175,6 +175,7 @@
   - Déplacer la buse à la hauteur `Z=0`
   - Placer un papier et ajuster le Z-Offset depuis l'écran de la SR
   - Sauvegarder
+
 
 - [Delta Calibration Calculator](https://github.com/Guilouz/Marlin-SuperRacer-MKS-Nano-V3/files/8146727/Delta.Calibration.Calculator.zip) *(Guilouz)*  
 - [Delta Calibration](https://github.com/Foxies-CSTL/Marlin_2.0.x/wiki/2.SETTINGS-THE-PRINTER#21-delta-calibration) *(Foxies)* 
