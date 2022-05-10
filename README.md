@@ -209,9 +209,13 @@ Voici une vidéo du GüeroLoco qui explique tout en détails et de façon préci
   <img src="https://user-images.githubusercontent.com/62854582/167669092-4a8a8bbb-ee5d-487c-b9f2-bc66dcab2f81.png" width="1666"/>  
 </p>
 
-# MODIFICATIONS FIRMWARE  
+# MODIFIER SON FIRMWARE  
 
-- [Modifications Firmware Guilouz](https://github.com/Guilouz/Marlin-SuperRacer-MKS-Nano-V3#possible-changes)  
+Si vous souhaitez modifier votre firmware, en partant du Marlin de Foxies disponible à cette adresse [Marlin Foxies](https://github.com/Foxies-CSTL/Marlin_2.0.x/tree/FLSUN_BUGFIX-MULTI?fbclid=IwAR34Tz7Op_wXBo1DShOGLOJi6iBsfOE6q6NOg22aWTG1cRsf-gMyx2zhFOo), voici la marche à suivre :
+
+- [7.4 Build your own Firmware](https://github.com/Foxies-CSTL/Marlin_2.0.x/wiki/7.TIPS#74build-your-own-firmware)
+
+*Comme le précise Foxies, si vous souhaitez modifier, ajouter ou supprimer des paramètres seul le fichier `FLSUNQ_Config.h` doit être modifié !*
 
 
 <p align="center">  
@@ -227,18 +231,6 @@ Si Klipper vous tente aller voir par ici > [KLIPPER](https://github.com/KORSiRO/
   <img src="https://user-images.githubusercontent.com/62854582/167669092-4a8a8bbb-ee5d-487c-b9f2-bc66dcab2f81.png" width="1666"/>  
 </p>
 
-# MODIFIER SON FIRMWARE  
-
-Si vous souhaitez modifier votre firmware, en partant du Marlin de Foxies disponible à cette adresse [Marlin Foxies](https://github.com/Foxies-CSTL/Marlin_2.0.x/tree/FLSUN_BUGFIX-MULTI?fbclid=IwAR34Tz7Op_wXBo1DShOGLOJi6iBsfOE6q6NOg22aWTG1cRsf-gMyx2zhFOo), voici la marche à suivre :
-
-- [7.4 Build your own Firmware](https://github.com/Foxies-CSTL/Marlin_2.0.x/wiki/7.TIPS#74build-your-own-firmware)
-
-*Comme le précise Foxies, si vous souhaitez modifier, ajouter ou supprimer des paramètres seul le fichier `FLSUNQ_Config.h` doit être modifié !*
-
-
-<p align="center">  
-  <img src="https://user-images.githubusercontent.com/62854582/167669092-4a8a8bbb-ee5d-487c-b9f2-bc66dcab2f81.png" width="1666"/>  
-</p>
 
 # ACHATS / UPGRADES
 
