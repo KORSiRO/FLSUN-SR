@@ -235,6 +235,11 @@ Si vous souhaitez modifier votre firmware, en partant du Marlin de Foxies dispon
 
 *Comme le précise Foxies, si vous souhaitez modifier, ajouter ou supprimer des paramètres seul le fichier `FLSUNQ_Config.h` doit être modifié !*
 
+
+<p align="center">  
+  <img src="https://user-images.githubusercontent.com/62854582/167669092-4a8a8bbb-ee5d-487c-b9f2-bc66dcab2f81.png" width="1666"/>  
+</p>
+
 # ACHATS / UPGRADES
 
 - [Alimentation MEAN WELL 350w](https://fr.aliexpress.com/item/1005002054981187.html?gatewayAdapt=glo2fra&spm=a2g0o.order_list.0.0.21ef5e5bi97cvc)
