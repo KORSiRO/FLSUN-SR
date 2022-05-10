@@ -44,6 +44,8 @@
 
 # WIKI 
 
+***Si vous recherchez des informations, vous les trouverez dans le Wiki de Foxies !  
+Ce Wiki est une mine d'informations !***
 - [Wiki Foxies](https://github.com/Foxies-CSTL/Marlin_2.0.x/wiki)
 
 
