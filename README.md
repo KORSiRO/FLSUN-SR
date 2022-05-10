@@ -180,9 +180,10 @@
 Si besoin se référer au document `Delta Calibration Calculator`
 
 - [Delta Calibration Calculator](https://github.com/Guilouz/Marlin-SuperRacer-MKS-Nano-V3/files/8146727/Delta.Calibration.Calculator.zip) *(Guilouz)*  
-- [Delta Calibration](https://github.com/Foxies-CSTL/Marlin_2.0.x/wiki/2.SETTINGS-THE-PRINTER#21-delta-calibration) *(Foxies)* 
-- [Vidéo Delta Calibration](https://www.youtube.com/watch?v=kgCOhYoABYo&ab_channel=IAMAMAKER) (*IAMAMAKER*)
+- [Delta Calibration](https://github.com/Foxies-CSTL/Marlin_2.0.x/wiki/2.SETTINGS-THE-PRINTER#21-delta-calibration) *(Foxies)*
 - [Calibration et réglages](https://github.com/Foxies-CSTL/Marlin_2.0.x/wiki/2.SETTINGS-THE-PRINTER) (*Foxies*)
+- [Vidéo Delta Calibration](https://www.youtube.com/watch?v=kgCOhYoABYo&ab_channel=IAMAMAKER) (*IAMAMAKER*)
+
 
 ### 5. Linear Advance
 
