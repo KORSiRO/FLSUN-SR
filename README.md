@@ -177,7 +177,7 @@
 
 - Connecter la sonde pour le leveling
 - Chauffer le lit à votre température habituelle 
-- Depuis Pronterface ou autre, lancer la commande  
+- Depuis Pronterface ou le Terminal de la SR, lancer la commande  
   - `G33 V3`
 - Attendre la fin et enregistrer avec la commande  
   - `M500`
