@@ -170,6 +170,7 @@
   - `M500`
 - Retirer la sonde de leveling
 - Réglez votre Z Offset
+  - Désactiver les Endstops avec la commande `M121` ou depuis l'écran de la SR
   - Chauffer la buse à votre température d'impression *(200-220° et sans filament pour éviter qu'il ne coule de la buse)*
   - Chauffer le lit à votre température d'impression *(60-70°)*
   - Déplacer la buse à la hauteur `Z=0`
