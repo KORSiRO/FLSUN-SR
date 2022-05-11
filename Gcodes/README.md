@@ -1,5 +1,3 @@
-- Liste des Gcodes les plus utilisés :
-
 - G0 *(Mouvement rapide d'un axe)*
 - G1 *(Mouvement linéaire d'un axe)*
 - G1 *(Unités en mm)*
