@@ -1,6 +1,6 @@
 - G0 *(Mouvement rapide d'un axe)*
 - G1 *(Mouvement linéaire d'un axe)*
-- G1 *(Unités en mm)*
+- G21 *(Unités en mm)*
 - G28 *(Home des axes/position 0)*
 - G29 *(Calibration du plateau en 8/9 points = Compensation en Z lors de l'impression)*
 - G90 et G91     
