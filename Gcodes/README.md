@@ -20,9 +20,9 @@ Si vous entrez la commande G90 G1 Z20 l'axe Z se placera à une hauteur de 20mm 
     - M104 S200 *(Température de la Buse à 200°)*
 - M109 *(Définir la température de la Buse et attendre la température cible)*
     - M109 S200 *(Température de la Buse à 200° et attendre)*
-- M106 *(Activer le ventilateurs de la Buse)*
+- M106 *(Activer les ventilateurs de la Buse)*
     - M106 S255 *(ventilateur à 100%)*
-- M107 *(Arrêter des ventilateurs)*
+- M107 *(Arrêter les ventilateurs)*
 - M114 *(Afficher la position actuelle de la tête d'impression)*
 - M119 *(Afficher l'état des capteurs de fin de course)*
 - M140 *(Définir la température du Plateau)*
