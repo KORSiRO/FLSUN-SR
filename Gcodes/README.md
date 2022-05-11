@@ -4,9 +4,9 @@
 - G28 *(Home des axes/position 0)*
 - G29 *(Calibration du plateau en 8/9 points = Compensation en Z lors de l'impression)*
 - G90 et G91     
-    - G91 *(positionnement relatif)*
+    - G91 *(positionnement relatif)*  
 Explications : Si en fin d'impression vous souhaitez déplacer l'axe Z et le faire monter de 20mm, la simple commande G1 Z20 fera descendre la tête à une hauteur de 20mm depuis le point 0 alors que si vous entrez la commande G91 G1 Z20 l'axe Z montera de 20mm mais cette fois, depuis sa position actuelle (en fin d'impression par exemple) et non par rapport au point 0.
-    - G90 *(positionnement absolu)*
+    - G90 *(positionnement absolu)*  
 Explications : A l'inverse de la commande G91, la commande G90 prend en compte les déplacements depuis la position 0.
 Si vous entrez la commande G90 G1 Z20 l'axe Z se placera à une hauteur de 20mm par rapport au point 0.
 - M82 *(Extrudeur en mode absolu)*
