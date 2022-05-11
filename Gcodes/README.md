@@ -13,7 +13,7 @@ Explications : A l'inverse de la commande G91, la commande G90 prend en compte l
 Si vous entrez la commande G90 G1 Z20 l'axe Z se placera à une hauteur de 20mm par rapport au point 0.
 - M82 *(Extrudeur en mode absolu)*
 - M83 *(Extrudeur en mode relatif)*
-- M84 *(Désactivation des moteurs)
+- M84 *(Désactivation des moteurs)*
 - M92 *(Définir les valeurs des pas/mm des axes)*
     - M92 X...Y...Z...E...
 - M104 *(Définir la température de la Buse)*
