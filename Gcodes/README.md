@@ -1,5 +1,7 @@
 - G0 *(Mouvement rapide d'un axe)*
 - G1 *(Mouvement linéaire d'un axe)*
+- G2 *(Mouvement en arc dans le sens des aiguilles d'une montre)*
+- G3 *(Mouvement en arc dans le sens contraire des aiguilles d'une montre)*
 - G21 *(Unités en mm)*
 - G28 *(Home des axes/position 0)*
 - G29 *(Calibration du plateau en 8/9 points = Compensation en Z lors de l'impression)*
