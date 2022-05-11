@@ -142,7 +142,7 @@
   - `G1 E100 F100` *(pour extruder 100mm)*
 - Relever la longueur extrudée
 - Récupérer les Steps actuel avec la commande  
-  - `M92`
+  - `M503` pui rendez vous à la ligne `M92`
 - On fait le calcul suivant :   
   - `Steps actuel x 100mm` = `Steps pour 100mm`
   - `Steps pour 100mm / Longueur extrudée` = `Nouvelle valeur Steps`  
