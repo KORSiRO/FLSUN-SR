@@ -42,18 +42,6 @@
   <img src="https://user-images.githubusercontent.com/62854582/167669092-4a8a8bbb-ee5d-487c-b9f2-bc66dcab2f81.png" width="1666"/>  
 </p>
 
-
-# WIKI 
-
-***Si vous recherchez des informations, vous les trouverez dans le Wiki de Foxies !  
-Ce Wiki est une mine d'informations !***
-- [Wiki Foxies](https://github.com/Foxies-CSTL/Marlin_2.0.x/wiki)
-
-
-<p align="center">  
-  <img src="https://user-images.githubusercontent.com/62854582/167669092-4a8a8bbb-ee5d-487c-b9f2-bc66dcab2f81.png" width="1666"/>  
-</p>
-
 # MAJ Firmware
 
 - [Vidéo MAJ Firmware v1.4](https://www.youtube.com/watch?v=yehdSc0RL4w) (*Marc Lacome*)
@@ -235,6 +223,17 @@ Si Klipper vous tente aller voir par ici > [KLIPPER](https://github.com/KORSiRO/
 # GCODES
 
 Voici une liste des Gcodes les plus utilisés > [Liste Gcodes](https://github.com/KORSiRO/FLSUN-SR/blob/main/Gcodes/README.md)
+
+
+<p align="center">  
+  <img src="https://user-images.githubusercontent.com/62854582/167669092-4a8a8bbb-ee5d-487c-b9f2-bc66dcab2f81.png" width="1666"/>  
+</p>
+
+# WIKI 
+
+***Si vous recherchez des informations, vous les trouverez dans le Wiki de Foxies !  
+Ce Wiki est une mine d'informations !***
+- [Wiki Foxies](https://github.com/Foxies-CSTL/Marlin_2.0.x/wiki)
 
 
 <p align="center">  
