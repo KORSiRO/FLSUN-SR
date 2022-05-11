@@ -8,7 +8,6 @@
 # SOMMAIRE
 
 - [Firmware](https://github.com/KORSiRO/FLSUN-SR#flsun-sr-firmware)
-- [Wiki](https://github.com/KORSiRO/FLSUN-SR#wiki)
 - [MAJ Firmware](https://github.com/KORSiRO/FLSUN-SR#maj-firmware)
 - [Calibration](https://github.com/KORSiRO/FLSUN-SR#calibration)
   - [PID Buse (v1.4)](https://github.com/KORSiRO/FLSUN-SR#1-pid-buse-firmware-14-)
@@ -21,6 +20,7 @@
 - [Modifier son Firmware](https://github.com/KORSiRO/FLSUN-SR/blob/main/README.md#modifier-son-firmware)
 - [Klipper](https://github.com/KORSiRO/FLSUN-SR#klipper)
 - [Gcodes](https://github.com/KORSiRO/FLSUN-SR#gcodes)
+- [Wiki](https://github.com/KORSiRO/FLSUN-SR#wiki)
 - [Achats/Upgrades](https://github.com/KORSiRO/FLSUN-SR#achats--upgrades)
 - [Vidéos Utiles](https://github.com/KORSiRO/FLSUN-SR#vid%C3%A9os-utiles-)
 - [Liens Utiles](https://github.com/KORSiRO/FLSUN-SR#liens-utiles-)
