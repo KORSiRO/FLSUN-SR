@@ -4,7 +4,7 @@
 - G3 *(Mouvement en arc dans le sens contraire des aiguilles d'une montre)*
 - G21 *(Unités en mm)*
 - G28 *(Home des axes/position 0)*
-- G29 *(Calibration du plateau en 8/9 points = Compensation en Z lors de l'impression)*
+- G29 *(Calibration du plateau en 8/9 points si vous avez un Bltouch ou autre capteur = Compensation en Z lors de l'impression)*
 - G90 et G91     
     - G91 *(positionnement relatif)*  
 Explications : Si vous entrez la commande G91 G1 Z20 l'axe Z se placera à + 20mm depuis sa position actuelle et non par rapport au point 0.
@@ -32,7 +32,7 @@ Si vous entrez la commande G90 G1 Z20 l'axe Z se placera à une hauteur de 20mm 
 - M303 *(Calibration PID)*
 - M301 *(Définition des valeurs du PID manuel pour la Buse)*
 - M304 *(Définition des valeurs du PID manuel pour le Plateau)*
-- M500 *(Sauvegarder les paramètres actules dans l'EEPROM)*
+- M500 *(Sauvegarder les paramètres actuels dans l'EEPROM)*
 - M501 *(Charger les paramètres depuis l'EEPROM)*
 - M502 *(Reset de l'EEPROM)*
 - M503 *(Lecture des paramètres l'EEPROM)*
