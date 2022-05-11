@@ -1,4 +1,5 @@
-**Voici les commandes Gcodes les "plus utilisées" que vous pouvez utiliser dans un gcode de début ou de fin de votre slicer mais vous pouvez aussi les rentrer dans Pronterface par exemple.**  
+***Voici les commandes Gcodes les "plus utilisées" que vous pouvez utiliser dans un gcode de début ou de fin de votre slicer.  
+Vous pouvez également les utiliser depuis Pronterface par exemple.***  
 
 - G0 *(Mouvement rapide d'un axe)*
 - G1 *(Mouvement linéaire d'un axe)*
