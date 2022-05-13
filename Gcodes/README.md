@@ -30,6 +30,8 @@ Si vous entrez la commande G90 G1 Z20 l'axe Z se placera à une hauteur de 20mm 
 - M107 *(Arrêter les ventilateurs)*
 - M114 *(Afficher la position actuelle de la tête d'impression)*
 - M119 *(Afficher l'état des capteurs de fin de course)*
+- M121 *(Désactiver les Fin de Course/EndStops)*
+    - M121 S0
 - M140 *(Définir la température du Plateau)*
     - M140 S60 *(Température du Plateau à 60°)*
 - M190 *(Définir la température du Plateau et attendre la température cible)*
