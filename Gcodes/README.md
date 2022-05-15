@@ -45,6 +45,8 @@ Si vous entrez la commande G90 G1 Z20 l'axe Z se placera à une hauteur de 20mm 
 - M503 *(Lecture des paramètres l'EEPROM)*
 - M600 *(Faire une pause pendant l'impression)*
 - M851 / M851 Z... *(Afficher / modifier la valeur du Z Offset)*
+- M900 *(Définir le facteur du Linear Advance)*
+   - M900 K0.20 *(Linear Advance défini sur 0.20)*
 - M906 *(Ajuster le courant des drivers en mode UART)*
     - M906 X...Y...Z...
     - M906 T0 E...
