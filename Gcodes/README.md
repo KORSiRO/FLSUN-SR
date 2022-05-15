@@ -39,6 +39,9 @@ Si vous entrez la commande G90 G1 Z20 l'axe Z se placera à une hauteur de 20mm 
 - M303 *(Calibration PID)*
 - M301 *(Définir les valeurs du PID manuel pour la Buse)*
 - M304 *(Définir les valeurs du PID manuel pour le Plateau)*
+- M413 *(Activer/Désactiver la reprise d'impression après une panne de courant ou Power Loss Recovery)*
+    - M413 S0 *(Désactiver)*
+    - M413 S1 *(Activer)*
 - M500 *(Sauvegarder les paramètres actuels dans l'EEPROM)*
 - M501 *(Charger les paramètres depuis l'EEPROM)*
 - M502 *(Reset de l'EEPROM)*
