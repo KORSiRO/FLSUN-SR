@@ -157,7 +157,8 @@
 
 Si vous souhaitez calibrer votre Débit ou Flow suivez les instructions disponible dans le PDF ci-dessous
 
-[Calibration du débit/flow avec Cura](https://github.com/KORSiRO/FLSUN-SR/blob/main/Calibration/Calibration%20du%20d%C3%A9bit%20avec%20Cura.pdf)
+- [Calibration du débit/flow avec Cura](https://github.com/KORSiRO/FLSUN-SR/blob/main/Calibration/Calibration%20du%20d%C3%A9bit%20avec%20Cura.pdf)  
+
 
 ***Je vous mets à disposition un fichier Excel que j'ai créé pour faciliter les calculs de calibration pour l'extrudeur :***  
 *(Les calculs des axes sont faits pour les imprimantes cartésiennes et non Delta)*
