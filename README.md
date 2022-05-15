@@ -160,17 +160,6 @@ Si vous souhaitez calibrer votre Débit ou Flow suivez les instructions disponib
 
 - [Calibration du débit/flow avec Cura](https://github.com/KORSiRO/FLSUN-SR/blob/main/Calibration/Calibration%20du%20d%C3%A9bit%20avec%20Cura.pdf)  
 
-
-***Je vous mets à disposition un fichier Excel que j'ai créé pour faciliter les calculs de calibration pour l'extrudeur :***  
-*(Les calculs des axes sont faits pour les imprimantes cartésiennes et non Delta)*
-
-- [CALIBRATION AUTOMATISÉ IMPRESSION 3D](https://github.com/KORSiRO/FLSUN-SR/raw/main/Calibration/CALIBRATION%20AUTOMATIS%C3%89%20IMPRESSION%203D.xlsm)
-
-<img src="https://user-images.githubusercontent.com/62854582/164967442-7625912c-e8dd-4232-b42c-b5381321197a.png" width="900">
-
-
-**PS** : activer les macros sous Excel pour enregistrer vos valeurs
-
 ### 5. Delta Calibration :
 
 <img src="https://user-images.githubusercontent.com/62854582/164052174-66a85777-bf06-4e9e-a63b-a6fb0d2b1a4f.png" width="350">
