@@ -173,8 +173,8 @@ Si vous souhaitez calibrer votre `Débit` ou `Flow` suivez les instructions disp
 - Retirer la sonde de leveling
 - Réglez votre Z Offset :
   - Désactiver les Endstops avec la commande `M121 S0`
-  - Chauffer la buse à votre température d'impression *(200-220° et sans filament pour éviter qu'il ne coule de la buse)*
-  - Chauffer le lit à votre température d'impression *(60-70°)*
+  - Chauffer la buse à votre température d'impression *(sans filament pour éviter qu'il ne coule de la buse)*
+  - Chauffer le lit à votre température d'impression 
   - Déplacer la buse à la hauteur `Z=0`
   - Placer un papier et ajuster le Z-Offset depuis l'écran de la SR
   - Sauvegarder
