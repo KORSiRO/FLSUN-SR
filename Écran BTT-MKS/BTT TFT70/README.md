@@ -1,5 +1,5 @@
 - [Firmware Guilouz BTT TFT70](https://github.com/Guilouz/BTT-TFT70-SuperRacer)  
-- [Firmware Foxies BTT TFT70/TFT35](https://github.com/Foxies-CSTL/Marlin_2.0.x/tree/Firmwares/SR)
+- [Firmware Foxies BTT TFT70](https://github.com/Foxies-CSTL/Marlin_2.0.x/blob/Firmwares/SR/BTT-TFT70_V3.zip)
 - [Installation écran BTT TFT70](https://www.youtube.com/watch?v=vALnOhEb6vk&ab_channel=JSTECH) *(JSTECH)*
 - [Prévisualisation écran BTT TFT70](https://www.youtube.com/watch?v=V00H9Zqtymc) *(JSTECH)*
 
