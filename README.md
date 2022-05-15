@@ -178,6 +178,7 @@ Si vous souhaitez calibrer votre `Débit` ou `Flow` suivez les instructions disp
   - Déplacer la buse à la hauteur `Z=0`
   - Placer un papier et ajuster le Z-Offset depuis l'écran de la SR
   - Sauvegarder
+  - Ré-activer les Endstops avec la commande `M121 S1` ou depuis l'écran de la SR
 
 Si besoin se référer au document `Delta Calibration Calculator`
 
