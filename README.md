@@ -156,7 +156,7 @@
 
 ### 4. Débit / Flow :
 
-Si vous souhaitez calibrer votre Débit ou Flow suivez les instructions disponible dans le PDF ci-dessous
+Si vous souhaitez calibrer votre `Débit` ou `Flow` suivez les instructions disponible dans le PDF ci-dessous :
 
 - [Calibration du débit/flow avec Cura](https://github.com/KORSiRO/FLSUN-SR/blob/main/Calibration/Calibration%20du%20d%C3%A9bit%20avec%20Cura.pdf)  
 
@@ -171,7 +171,7 @@ Si vous souhaitez calibrer votre Débit ou Flow suivez les instructions disponib
 - Attendre la fin et enregistrer avec la commande  
   - `M500`
 - Retirer la sonde de leveling
-- Réglez votre Z Offset
+- Réglez votre Z Offset :
   - Désactiver les Endstops avec la commande `M121 S0` ou depuis l'écran de la SR
   - Chauffer la buse à votre température d'impression *(200-220° et sans filament pour éviter qu'il ne coule de la buse)*
   - Chauffer le lit à votre température d'impression *(60-70°)*
