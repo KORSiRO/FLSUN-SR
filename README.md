@@ -16,8 +16,8 @@
   - [PID Bed Pronterface](https://github.com/KORSiRO/FLSUN-SR#22-pid-bed-depuis-pronterface-ou-octoprint-)
   - [Extrudeur](https://github.com/KORSiRO/FLSUN-SR#3-extrudeur-)
   - [Débit / Flow](https://github.com/KORSiRO/FLSUN-SR#4-d%C3%A9bit--flow-)
-- [Delta Calibration](https://github.com/KORSiRO/FLSUN-SR#4-delta-calibration-)
-- [Linear Advance](https://github.com/KORSiRO/FLSUN-SR#5-linear-advance)
+  - [Delta Calibration](https://github.com/KORSiRO/FLSUN-SR#4-delta-calibration-)
+  - [Linear Advance](https://github.com/KORSiRO/FLSUN-SR#5-linear-advance)
 - [Modifier son Firmware](https://github.com/KORSiRO/FLSUN-SR/blob/main/README.md#modifier-son-firmware)
 - [Klipper](https://github.com/KORSiRO/FLSUN-SR#klipper)
 - [Gcodes](https://github.com/KORSiRO/FLSUN-SR#gcodes)
@@ -171,7 +171,7 @@ Si vous souhaitez calibrer votre Débit ou Flow suivez les instructions disponib
 
 **PS** : activer les macros sous Excel pour enregistrer vos valeurs
 
-### 4. Delta Calibration :
+### 5. Delta Calibration :
 
 <img src="https://user-images.githubusercontent.com/62854582/164052174-66a85777-bf06-4e9e-a63b-a6fb0d2b1a4f.png" width="350">
 
@@ -197,7 +197,7 @@ Si besoin se référer au document `Delta Calibration Calculator`
 - [Calibration et réglages](https://github.com/Foxies-CSTL/Marlin_2.0.x/wiki/2.SETTINGS-THE-PRINTER) (*Foxies*)
 - [Vidéo Delta Calibration](https://www.youtube.com/watch?v=kgCOhYoABYo&ab_channel=IAMAMAKER) (*IAMAMAKER*)
 
-### 5. Linear Advance
+### 6. Linear Advance
 
 Voici une vidéo du GüeroLoco qui explique tout en détails et de façon précise !
 - [Linear Advance](https://www.youtube.com/watch?v=f6fzJTsnpds&ab_channel=LeG%C3%BCeroLoco)
