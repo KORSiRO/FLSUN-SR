@@ -172,13 +172,13 @@ Si vous souhaitez calibrer votre `Débit` ou `Flow` suivez les instructions disp
   - `M500`
 - Retirer la sonde de leveling
 - Réglez votre Z Offset :
-  - Désactiver les Endstops avec la commande `M121 S0` ou depuis l'écran de la SR
+  - Désactiver les Endstops avec la commande `M121 S0`
   - Chauffer la buse à votre température d'impression *(200-220° et sans filament pour éviter qu'il ne coule de la buse)*
   - Chauffer le lit à votre température d'impression *(60-70°)*
   - Déplacer la buse à la hauteur `Z=0`
   - Placer un papier et ajuster le Z-Offset depuis l'écran de la SR
   - Sauvegarder
-  - Ré-activer les Endstops avec la commande `M121 S1` ou depuis l'écran de la SR
+  - Ré-activer les Endstops avec la commande `M121 S1`
 
 Si besoin se référer au document `Delta Calibration Calculator`
 
