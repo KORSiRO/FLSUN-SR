@@ -1,6 +1,10 @@
-# CALIBRATION AUTOMATISÉ IMPRESSION 3D :
+# YACS CALIBRATION SQUARE :
 
-<img src="https://user-images.githubusercontent.com/62854582/164967442-7625912c-e8dd-4232-b42c-b5381321197a.png" width="900">
+<img src="https://user-images.githubusercontent.com/62854582/168472875-693bbd2a-6275-4b8e-b10d-9df140a27f79.png" width="400">
+
+[Télécharger](https://www.thingiverse.com/thing:2563185)
+
+
 
 # TEMPÉRATURE DE BUSE IRRÉGULIÈRE :
 
