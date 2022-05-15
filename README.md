@@ -34,8 +34,9 @@
 
 - [Firmware Stock v1.3](https://github.com/KORSiRO/FLSUN-SR/tree/main/Firmware%20STOCK/Firmware%20v1.3)
 - [Firmware Stock v1.4](https://github.com/KORSiRO/FLSUN-SR/tree/main/Firmware%20STOCK/Firmware%20v1.4)
-- [Firmware Foxies Nano v3 / BTT SKR 1.3](https://github.com/Foxies-CSTL/Marlin_2.0.x/tree/Firmwares/SR)
-- [Firmware Guilouz Nano v3](https://github.com/Guilouz/Marlin-SuperRacer-MKS-Nano-V3)  
+- [Firmware Marlin Foxies Nano v3 / BTT SKR 1.3](https://github.com/Foxies-CSTL/Marlin_2.0.x/tree/Firmwares/SR)
+- [Firmware Marlin Guilouz Nano v3](https://github.com/Guilouz/Marlin-SuperRacer-MKS-Nano-V3)
+- [Firmware BTT TFT70 / MKS TS35-R](https://github.com/KORSiRO/FLSUN-SR/tree/main/%C3%89cran%20BTT-MKS/BTT%20TFT70)
 
 
 <p align="center">  
