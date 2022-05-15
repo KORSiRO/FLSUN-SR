@@ -15,6 +15,7 @@
   - [PID Bed (v1.4)](https://github.com/KORSiRO/FLSUN-SR#2-pid-bed-firmware-14-)
   - [PID Bed Pronterface](https://github.com/KORSiRO/FLSUN-SR#22-pid-bed-depuis-pronterface-ou-octoprint-)
   - [Extrudeur](https://github.com/KORSiRO/FLSUN-SR#3-extrudeur-)
+  - [Débit / Flow](https://github.com/KORSiRO/FLSUN-SR#4-d%C3%A9bit--flow-)
 - [Delta Calibration](https://github.com/KORSiRO/FLSUN-SR#4-delta-calibration-)
 - [Linear Advance](https://github.com/KORSiRO/FLSUN-SR#5-linear-advance)
 - [Modifier son Firmware](https://github.com/KORSiRO/FLSUN-SR/blob/main/README.md#modifier-son-firmware)
