@@ -239,6 +239,11 @@ Voici une liste des Gcodes les plus utilisés
   <img src="https://user-images.githubusercontent.com/62854582/167669092-4a8a8bbb-ee5d-487c-b9f2-bc66dcab2f81.png" width="1666"/>  
 </p>
 
+# PRINT UPGRADES
+
+- [Print Upgrades](https://github.com/KORSiRO/FLSUN-SR/tree/main/Upgrades)
+
+
 # ACHATS / UPGRADES
 
 - [Alimentation MEAN WELL 350w](https://fr.aliexpress.com/item/1005002054981187.html?gatewayAdapt=glo2fra&spm=a2g0o.order_list.0.0.21ef5e5bi97cvc)
