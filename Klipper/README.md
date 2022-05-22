@@ -8,6 +8,8 @@
   
 ### INSTALLATION :
 
+- [Github Klipper](https://github.com/Klipper3d/klipper)
+- [Site Klipper](https://www.klipper3d.org/)
 - [Github Danorder](https://github.com/danorder/Flsun-super-racer-Full-klipper-config-)
 - [Github Orecus](https://github.com/orecus/FLSUN-SR---Klipper)
 - [How to convert to Klipper firmware: 32 bit delta step by step](https://www.youtube.com/watch?v=Cj7KpzbgExQ) *(Teaching Tech)*
