@@ -35,7 +35,7 @@
 - [Endstop Phase](https://www.klipper3d.org/Endstop_Phase.html)
 - [Resonance Compensation](https://www.klipper3d.org/Resonance_Compensation.html)
 
-### CONFIGURATION :
+### CONFIGURATION MKS ROBIN NANO V3:
 
 - [Github Orecus](https://github.com/orecus/FLSUN-SR---Klipper)
 - [Github Danorder : printer.cfg](https://github.com/danorder/Flsun-super-racer-Full-klipper-config-/blob/main/printer.cfg)
