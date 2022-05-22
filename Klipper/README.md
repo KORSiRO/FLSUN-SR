@@ -17,6 +17,7 @@
 - [Github MKS Klipper](https://github.com/makerbase-mks/Klipper-for-MKS-Boards)
 - [FluiddPI](https://docs.fluidd.xyz/installation/fluiddpi)
 - [MainsailOS](https://docs.mainsail.xyz/setup/mainsail-os)
+- [KlipperScreen](https://github.com/jordanruthe/KlipperScreen)
 
 ### CONFIGURATION et MISE A JOUR :
 
