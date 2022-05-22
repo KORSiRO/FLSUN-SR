@@ -16,6 +16,10 @@
 - [FluiddPI](https://docs.fluidd.xyz/installation/fluiddpi)
 - [MainsailOS](https://docs.mainsail.xyz/setup/mainsail-os)
 
+### CONFIGURATION et MISE A JOUR :
+
+[GUIDE MKS motherboard](https://github.com/makerbase-mks/Klipper-for-MKS-Boards/blob/main/MKS%20motherboard%20Raspberry%20Pi%20system%20and%20Klipper%20firmware%20upgrade%20guide.pdf)
+
 ### CALIBRATION :
 
 - [Z Offset Calibration](https://youtu.be/U8EGKLJpQmo) *(Vidéo)*
