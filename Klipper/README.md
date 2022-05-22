@@ -38,6 +38,6 @@
 ### CONFIGURATION :
 
 - [Github Orecus](https://github.com/orecus/FLSUN-SR---Klipper)
-- [Danorder : printer.cfg](https://github.com/danorder/Flsun-super-racer-Full-klipper-config-/blob/main/printer.cfg)
+- [Github Danorder : printer.cfg](https://github.com/danorder/Flsun-super-racer-Full-klipper-config-/blob/main/printer.cfg)
 
 
