@@ -11,7 +11,6 @@
 - [Github Klipper](https://github.com/Klipper3d/klipper)
 - [Site Klipper](https://www.klipper3d.org/)
 - [Github Danorder](https://github.com/danorder/Flsun-super-racer-Full-klipper-config-)
-- [Github Orecus](https://github.com/orecus/FLSUN-SR---Klipper)
 - [How to convert to Klipper firmware: 32 bit delta step by step](https://www.youtube.com/watch?v=Cj7KpzbgExQ) *(Teaching Tech)*
 - [3dPrintBeginner](https://3dprintbeginner.com/klipper-on-flsun-super-racer/)
 - [Github MKS Klipper](https://github.com/makerbase-mks/Klipper-for-MKS-Boards)
@@ -38,5 +37,6 @@
 
 ### CONFIGURATION :
 
-- [Configuartion SR : Printer.cfg](https://gist.github.com/tuannat/d5720b08c07a4f2943cd69413ca908df?fbclid=IwAR1rFx1J6orTyAcVE1YuAUgp8sqxx7WrkDAzW4bPrI1Q-HyW3n44g2t0VJs)  
-`please skip pressure_advance, input_shaper config and calibrate your extruder rotation distance base on yours`
+- [Github Orecus](https://github.com/orecus/FLSUN-SR---Klipper)
+
+
