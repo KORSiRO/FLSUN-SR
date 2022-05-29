@@ -20,9 +20,9 @@
 
 ### CONFIGURATION / MACROS :
 
+- [Github Orecus](https://github.com/orecus/FLSUN-SR---Klipper)
+- [Github Danorder : printer.cfg](https://github.com/danorder/Flsun-super-racer-Full-klipper-config-/blob/main/printer.cfg)
 - [Github cupsster](https://github.com/cupsster/FLSUN-SR---Klipper-Config)
-- [Guide MKS Boards](https://github.com/makerbase-mks/Klipper-for-MKS-Boards/blob/main/MKS%20motherboard%20Raspberry%20Pi%20system%20and%20Klipper%20firmware%20upgrade%20guide.pdf)
-- [Manuel MKS Nano v3](https://github.com/makerbase-mks/Klipper-for-MKS-Boards/blob/main/Klipper%E5%9B%BA%E4%BB%B6%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E-Nano%20V3.pdf)
 - [Klipper MKS Robin Nano v3 Firmware + Config](https://github.com/makerbase-mks/Klipper-for-MKS-Boards/tree/main/MKS%20Robin%20Nano%20V3.x)
 
 ### CALIBRATION :
@@ -36,9 +36,9 @@
 - [Endstop Phase](https://www.klipper3d.org/Endstop_Phase.html)
 - [Resonance Compensation](https://www.klipper3d.org/Resonance_Compensation.html)
 
-### CONFIGURATION MKS ROBIN NANO V3:
+### GUIDE MKS ROBIN NANO V3:
 
-- [Github Orecus](https://github.com/orecus/FLSUN-SR---Klipper)
-- [Github Danorder : printer.cfg](https://github.com/danorder/Flsun-super-racer-Full-klipper-config-/blob/main/printer.cfg)
+- [Guide MKS Boards](https://github.com/makerbase-mks/Klipper-for-MKS-Boards/blob/main/MKS%20motherboard%20Raspberry%20Pi%20system%20and%20Klipper%20firmware%20upgrade%20guide.pdf)
+- [Manuel MKS Nano v3](https://github.com/makerbase-mks/Klipper-for-MKS-Boards/blob/main/Klipper%E5%9B%BA%E4%BB%B6%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E-Nano%20V3.pdf)
 
 
