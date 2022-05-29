@@ -18,8 +18,9 @@
 - [MainsailOS](https://docs.mainsail.xyz/setup/mainsail-os)
 - [KlipperScreen](https://github.com/jordanruthe/KlipperScreen)
 
-### CONFIGURATION et MISE A JOUR :
+### CONFIGURATION / MACROS :
 
+- [Github cupsster](https://github.com/cupsster/FLSUN-SR---Klipper-Config)
 - [Guide MKS Boards](https://github.com/makerbase-mks/Klipper-for-MKS-Boards/blob/main/MKS%20motherboard%20Raspberry%20Pi%20system%20and%20Klipper%20firmware%20upgrade%20guide.pdf)
 - [Manuel MKS Nano v3](https://github.com/makerbase-mks/Klipper-for-MKS-Boards/blob/main/Klipper%E5%9B%BA%E4%BB%B6%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E-Nano%20V3.pdf)
 - [Klipper MKS Robin Nano v3 Firmware + Config](https://github.com/makerbase-mks/Klipper-for-MKS-Boards/tree/main/MKS%20Robin%20Nano%20V3.x)
