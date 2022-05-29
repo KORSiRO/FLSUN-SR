@@ -22,6 +22,7 @@
 - [FluiddPi - Pi image Klipper, Fluidd, Moonraker, Web Cam pré-installés](https://github.com/fluidd-core/FluiddPi)
 - [MainSailOS](https://github.com/mainsail-crew/MainsailOS)
 - [Mooncord](https://github.com/eliteSchwein/mooncord)
+- [Prind](https://github.com/mkuf/prind)
 
 ### CONFIGURATION / MACROS :
 
