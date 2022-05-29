@@ -21,6 +21,7 @@
 - [Moonraker Fluidd](https://docs.fluidd.xyz/configuration/moonraker)
 - [FluiddPi - Pi image Klipper, Fluidd, Moonraker, Web Cam pré-installés](https://github.com/fluidd-core/FluiddPi)
 - [MainSailOS](https://github.com/mainsail-crew/MainsailOS)
+- [Mooncord](https://github.com/eliteSchwein/mooncord)
 
 ### CONFIGURATION / MACROS :
 
