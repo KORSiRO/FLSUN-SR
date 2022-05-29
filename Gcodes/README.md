@@ -36,6 +36,8 @@ Si vous entrez la commande G90 G1 Z20 l'axe Z se placera à une hauteur de 20mm 
     - M140 S60 *(Température du Plateau à 60°)*
 - M190 *(Définir la température du Plateau et attendre la température cible)*
     - M190 S60 *(Température du Plateau à 60° et attendre)*
+- M206 *(Définir l'offset d'un axe)*
+    - M206 X0 *(Offset de l'axe X défini à 0)*
 - M303 *(Calibration PID)*
 - M301 *(Définir les valeurs du PID manuel pour la Buse)*
 - M304 *(Définir les valeurs du PID manuel pour le Plateau)*
