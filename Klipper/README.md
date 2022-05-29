@@ -20,6 +20,8 @@
 - [Moonraker - Github Arksine](https://github.com/Arksine/moonraker)
 - [Moonraker Fluidd](https://docs.fluidd.xyz/configuration/moonraker)
 - [FluiddPi - Pi image Klipper, Fluidd, Moonraker, Web Cam pré-installés](https://github.com/fluidd-core/FluiddPi)
+- [MainSailOS](https://github.com/mainsail-crew/MainsailOS)
+
 ### CONFIGURATION / MACROS :
 
 - [Github Orecus](https://github.com/orecus/FLSUN-SR---Klipper)
