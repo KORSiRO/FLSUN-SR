@@ -28,7 +28,7 @@
 ### CONFIGURATION / MACROS :
 
 - [Github Orecus](https://github.com/orecus/FLSUN-SR---Klipper)
-- [Github Danorder : printer.cfg](https://github.com/danorder/Flsun-super-racer-Full-klipper-config-/blob/main/printer.cfg)
+- [Github Danorder](https://github.com/danorder/Flsun-super-racer-Full-klipper-config-/blob/main/printer.cfg)
 - [Github cupsster](https://github.com/cupsster/FLSUN-SR---Klipper-Config)
 - [Klipper MKS Robin Nano v3 Firmware + Config](https://github.com/makerbase-mks/Klipper-for-MKS-Boards/tree/main/MKS%20Robin%20Nano%20V3.x)
 - [Github Klipper](https://github.com/Klipper3d/klipper/tree/master/config)
