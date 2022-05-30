@@ -32,6 +32,7 @@
 - [Github cupsster](https://github.com/cupsster/FLSUN-SR---Klipper-Config)
 - [Klipper MKS Robin Nano v3 Firmware + Config](https://github.com/makerbase-mks/Klipper-for-MKS-Boards/tree/main/MKS%20Robin%20Nano%20V3.x)
 - [Github Klipper](https://github.com/Klipper3d/klipper/tree/master/config)
+- [Klipper probe area only](https://gist.github.com/noahliketheark/4acd58d5604f2fb4b387caec1e0ee9a3?fbclid=IwAR176mhZV87AwilpCR2evy73DiZ30RPfjSbCnojwc6JmWdmck3txWZGuAvY)
 
 ### CALIBRATION :
 
