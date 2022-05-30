@@ -23,6 +23,7 @@
 - [MainSailOS](https://github.com/mainsail-crew/MainsailOS)
 - [Mooncord](https://github.com/eliteSchwein/mooncord)
 - [Prind](https://github.com/mkuf/prind)
+- [Kiauh](https://github.com/th33xitus/kiauh) *(Script qui facilite l'installation de Klipper)*
 
 ### CONFIGURATION / MACROS :
 
