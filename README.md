@@ -249,7 +249,7 @@ Voici une liste des Gcodes les plus utilisés
 
 # ACHATS / UPGRADES
 
-***Si vous sohaitez acheter et améliorer votre imprimante, voici une petite liste de quelques produits qui pourraient vous intéresser.***  
+***Si vous souhaitez acheter et améliorer votre imprimante, voici une petite liste de quelques produits qui pourraient vous intéresser.***  
 
 - [Alimentation MEAN WELL 350w](https://fr.aliexpress.com/item/1005002054981187.html?gatewayAdapt=glo2fra&spm=a2g0o.order_list.0.0.21ef5e5bi97cvc)
 - [BondTech LGX Lite Large Gears](https://www.3djake.fr/bondtech/extrudeuse-lgx-lite-large-gears?gclid=Cj0KCQjw6pOTBhCTARIsAHF23fLTZgbtQpC4bbwAT2e_H9K49WKUpjRObBl-nS-dZ4m-in6CQF5-uQEaAnnFEALw_wcB)
