@@ -213,7 +213,7 @@ Si vous souhaitez modifier votre firmware, en partant du Marlin de Foxies dispon
 
 # KLIPPER  
 
-Si Klipper vous tente aller voir par ici > [KLIPPER](https://github.com/KORSiRO/FLSUN-SR/tree/main/Klipper)
+Si Klipper vous tente aller voir par ici > [KLIPPER](https://github.com/KORSiRO/All4Klipper/blob/main/README.md)
 
 
 <p align="center">  
