@@ -16,6 +16,7 @@ Explications : Si vous entrez la commande G91 G1 Z20 l'axe Z se placera à + 20m
     - G90 *(positionnement absolu)*  
 Explications : A l'inverse de la commande G91, la commande G90 prend en compte les déplacements depuis la position 0.
 Si vous entrez la commande G90 G1 Z20 l'axe Z se placera à une hauteur de 20mm par rapport au point 0.
+- M27 S0 *(Stop SD Printing Pronterface)*
 - M82 *(Extrudeur en mode absolu)*
 - M83 *(Extrudeur en mode relatif)*
 - M84 *(Désactiver les moteurs)*
