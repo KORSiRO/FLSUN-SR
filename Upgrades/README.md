@@ -32,6 +32,7 @@
 - [Fan Duct (Radial with Offset)](https://www.thingiverse.com/thing:4916950)
 - [NSK Xquad Fanducts (5 versions)](https://www.thingiverse.com/thing:4950102)
 - [NSK Dual-C fanducts](https://www.thingiverse.com/thing:4950606)
+- [FLSUN SR Fan Duct V3 Fast mount for VOLCANO](https://www.printables.com/fr/model/216372-flsun-sr-fan-duct-v3-fast-mount)
 
 # Feet SR
 
