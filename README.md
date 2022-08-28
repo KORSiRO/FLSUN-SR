@@ -9,7 +9,7 @@
 
 - [Firmware](https://github.com/KORSiRO/FLSUN-SR#flsun-sr-firmware)
 - [MAJ Firmware](https://github.com/KORSiRO/FLSUN-SR#maj-firmware)
-- [Calibration](https://github.com/KORSiRO/FLSUN-SR#calibration)
+- [Calibration]([https://github.com/KORSiRO/FLSUN-SR#calibration](https://github.com/KORSiRO/FLSUN-SR/wiki/1.Calibration/)
   - [PID Buse (v1.4)](https://github.com/KORSiRO/FLSUN-SR#1-pid-buse-firmware-14-)
   - [PID Buse Pronterface](https://github.com/KORSiRO/FLSUN-SR#12-pid-buse-depuis-pronterface-ou-octoprint-)
   - [PID Bed (v1.4)](https://github.com/KORSiRO/FLSUN-SR#2-pid-bed-firmware-14-)
