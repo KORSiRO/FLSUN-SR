@@ -10,7 +10,6 @@
 - [Firmware](https://github.com/KORSiRO/FLSUN-SR#flsun-sr-firmware)
 - [MAJ Firmware](https://github.com/KORSiRO/FLSUN-SR#maj-firmware)
 - [Calibration](https://github.com/KORSiRO/FLSUN-SR/wiki/CALIBRATION)
-- [Modifier son Firmware](https://github.com/KORSiRO/FLSUN-SR/blob/main/README.md#modifier-son-firmware)
 - [Klipper](https://github.com/KORSiRO/FLSUN-SR#klipper)
 - [Gcodes](https://github.com/KORSiRO/FLSUN-SR#gcodes)
 - [Wiki](https://github.com/KORSiRO/FLSUN-SR#wiki)
@@ -72,19 +71,6 @@
 # 3. CALIBRATION
 
 J'ai regroupé toutes les étapes de **CALIBRATION** sur mon wiki disponible ici : [Wiki Calibration](https://github.com/KORSiRO/FLSUN-SR/wiki/CALIBRATION)
-
-<p align="center">  
-  <img src="https://user-images.githubusercontent.com/62854582/167669092-4a8a8bbb-ee5d-487c-b9f2-bc66dcab2f81.png" width="1666"/>  
-</p>
-
-# MODIFIER SON FIRMWARE  
-
-Si vous souhaitez modifier votre firmware, en partant du Marlin de Foxies disponible à cette adresse [Marlin Foxies](https://github.com/Foxies-CSTL/Marlin_2.0.x/tree/FLSUN_BUGFIX-MULTI?fbclid=IwAR34Tz7Op_wXBo1DShOGLOJi6iBsfOE6q6NOg22aWTG1cRsf-gMyx2zhFOo), voici la marche à suivre :
-
-- [7.4 Build your own Firmware](https://github.com/Foxies-CSTL/Marlin_2.0.x/wiki/7.TIPS#74build-your-own-firmware)
-
-*Comme le précise Foxies, si vous souhaitez modifier, ajouter ou supprimer des paramètres seul le fichier `FLSUNQ_Config.h` doit être modifié !*
-
 
 <p align="center">  
   <img src="https://user-images.githubusercontent.com/62854582/167669092-4a8a8bbb-ee5d-487c-b9f2-bc66dcab2f81.png" width="1666"/>  
