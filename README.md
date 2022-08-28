@@ -75,124 +75,12 @@
 
 <img src="https://user-images.githubusercontent.com/62854582/163845798-b82c77e4-c3e4-41aa-9e31-cc1e15ac41fc.png" width="300">
 
-
 <p align="center">  
   <img src="https://user-images.githubusercontent.com/62854582/167669092-4a8a8bbb-ee5d-487c-b9f2-bc66dcab2f81.png" width="1666"/>  
 </p>
+# 3. Calibration
 
-# CALIBRATION  
-
-- [Télécharger Printrun *(Pronterface)*](https://github.com/kliment/Printrun/releases)
-- [Fichiers de Calibration](https://github.com/KORSiRO/FLSUN-SR/tree/main/Calibration)
-- [Réglages Firmware v1.4](https://www.youtube.com/watch?v=Xahf28nMHUY) (*Marc Lacome*)
-
-### 1. PID Buse (firmware 1.4) :
-
-- Créer un fichier texte que l'on appellera `PID Buse.gcode`
-- Intégrer dans ce fichier :  
-  - `M303 E0 S210 C8 U1` *(8 cycles de chauffe à 210°)*
-- Noter ensuite les paramètres visible sur l'écran dans le menu `EEPROM` de la SR
-- Imprimer le fichier `PID Buse.gcode` ou `PID Bed.gcode`, l'écran indique "impression terminée".
-- La température de la buse va monter (PID en cours)
-- Le PID est terminé quand la température est descendu à ~ 20° en dessous de la valeur `S` de départ
-- On retourne dans le menu `EEPROM` et on vérifie que les données ont bien été modifiées
-- On se rend dans `Console`sur l'écran de la SR et on rentre la commande :  
-  - `M500` *(Sauvegarder)*  
-
-***PS : `U1` permet d'envoyer à la carte mère les nouvelles valeurs du PID***
-
-### 1.2 PID Buse depuis Pronterface ou Octoprint :
-
-- Entrer la commande  
-  - `M106 E0 S255` *(mise en route du ventilateur de la buse)*
-- Entrer la commande  
-  - `M303 E0 S210 C8` *(8 cycles de chauffe à 210°)*
-- Une fois le PID terminé, entrer la commande  
-  - `M301 P... I... D...` *(remplacer `...` par les nouvelles valeurs)*
-- Entrer la commande  
-  - `M500` *(Sauvegarder)*
-- Entrer la commande  
-  - `M106 E0 S0` *(Couper le ventilateur de la buse)*
-
-### 2. PID Bed (firmware 1.4) :
-
-- Créer un fichier texte que l'on appellera `PID Bed.gcode`
-- Intégrer dans ce fichier :  
-  - `M303 E-1 S60 C8 U1` *(8 cycles de chauffe à 60°)*
-- Noter ensuite les paramètres visible sur l'écran dans le menu `EEPROM` de la SR
-- Imprimer le fichier `PID Buse.gcode` ou `PID Bed.gcode`, l'écran indique "impression terminée".
-- La température de la buse va monter *(PID en cours)*
-- Le PID est terminé quand la température est descendu à ~ 20° en dessous de la valeur `S` de départ
-- On retourne dans le menu `EEPROM` et on vérifie que les données ont bien été modifiées
-- On se rend dans `Console` sur l'écran de la SR et on rentre la commande :  
-  - `M500` *(Sauvegarder)*
-
-### 2.2 PID Bed depuis Pronterface ou Octoprint :
-
-- Entrer la commande  
-  - `M303 E-1 S60 C8` *(8 cycles de chauffe à 60°)*
-- Une fois le PID terminé, entrer la commande  
-  - `M304 P... I... D...` *(remplacer `...` par les nouvelles valeurs)*
-- Entrer la commande  
-  - `M500` *(Sauvegarder)*
-
-### 3. Extrudeur : 
-
-- Faire une marque à `120 mm`
-- Retirer le PTFE du dessous de l'extrudeur *(extrusion à froid)*
-- Extruder `100mm` grâce aux commandes suivantes :  
-  - `M302 S0` *(pour pouvoir extruder à froid)*  
-  - `M83` *(pour passer en mode relatif)*  
-  - `G1 E100 F100` *(pour extruder 100mm)*
-- Relever la longueur extrudée
-- Récupérer les Steps actuel avec la commande  
-  - `M503` pui rendez vous à la ligne `M92`
-- On fait le calcul suivant :   
-  - `Steps actuel x 100mm` = `Steps pour 100mm`
-  - `Steps pour 100mm / Longueur extrudée` = `Nouvelle valeur Steps`  
-- Entrer la commande :
-  - `M92 E...` *(remplacer `...`par la nouvelle valeur trouvée, deux décimales maximum)*  
-- Entrer la commande :
-  - `M500` *(Sauvegarder)*  
-
-### 4. Débit / Flow :
-
-Si vous souhaitez calibrer votre `Débit` ou `Flow` suivez les instructions disponible dans le PDF ci-dessous :
-
-- [Calibration du débit/flow avec Cura](https://github.com/KORSiRO/FLSUN-SR/blob/main/Calibration/Calibration%20du%20d%C3%A9bit%20avec%20Cura.pdf)  
-
-### 5. Delta Calibration :
-
-<img src="https://user-images.githubusercontent.com/62854582/164052174-66a85777-bf06-4e9e-a63b-a6fb0d2b1a4f.png" width="350">
-
-- Connecter la sonde pour le leveling
-- Chauffer le lit à votre température habituelle 
-- Depuis Pronterface ou le Terminal de la SR, lancer la commande  
-  - `G33 V3`
-- Attendre la fin et enregistrer avec la commande  
-  - `M500`
-- Retirer la sonde de leveling
-- Réglez votre Z Offset :
-  - Désactiver les Endstops avec la commande `M121 S0`
-  - Chauffer la buse à votre température d'impression *(sans filament pour éviter qu'il ne coule de la buse)*
-  - Chauffer le lit à votre température d'impression 
-  - Déplacer la buse à la hauteur `Z=0`
-  - Placer un papier et ajuster le Z-Offset depuis l'écran de la SR
-  - Sauvegarder
-  - Ré-activer les Endstops avec la commande `M121 S1`
-
-Si besoin se référer au document `Delta Calibration Calculator`
-
-- [Delta Calibration Calculator](https://github.com/Guilouz/Marlin-SuperRacer-MKS-Nano-V3/files/8146727/Delta.Calibration.Calculator.zip) *(Guilouz)*  
-- [Delta Calibration](https://github.com/Foxies-CSTL/Marlin_2.0.x/wiki/2.SETTINGS-THE-PRINTER#21-delta-calibration) *(Foxies)*
-- [Calibration et réglages](https://github.com/Foxies-CSTL/Marlin_2.0.x/wiki/2.SETTINGS-THE-PRINTER) (*Foxies*)
-- [Vidéo Delta Calibration](https://www.youtube.com/watch?v=kgCOhYoABYo&ab_channel=IAMAMAKER) (*IAMAMAKER*)
-
-### 6. Linear Advance
-
-Voici une vidéo du GüeroLoco qui explique tout en détails et de façon précise !
-- [Linear Advance](https://www.youtube.com/watch?v=f6fzJTsnpds&ab_channel=LeG%C3%BCeroLoco)
-
+J'ai regroupé toutes les étapres de **CALIBRATION** sur mon wiki disponible ici : [Wiki Calibration](https://github.com/KORSiRO/FLSUN-SR/wiki/1.Calibration/)
 
 <p align="center">  
   <img src="https://user-images.githubusercontent.com/62854582/167669092-4a8a8bbb-ee5d-487c-b9f2-bc66dcab2f81.png" width="1666"/>  
