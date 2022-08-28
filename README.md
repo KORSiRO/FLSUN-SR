@@ -77,8 +77,9 @@
 
 <p align="center">  
   <img src="https://user-images.githubusercontent.com/62854582/167669092-4a8a8bbb-ee5d-487c-b9f2-bc66dcab2f81.png" width="1666"/>  
-</p>
-# 3. Calibration
+</p>  
+
+# 3. CALIBRATION
 
 J'ai regroupé toutes les étapres de **CALIBRATION** sur mon wiki disponible ici : [Wiki Calibration](https://github.com/KORSiRO/FLSUN-SR/wiki/1.Calibration/)
 
