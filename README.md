@@ -29,7 +29,7 @@
 - [Firmware Stock v1.3](https://github.com/KORSiRO/FLSUN-SR/tree/main/Firmware%20STOCK/Firmware%20v1.3)
 - [Firmware Stock v1.4](https://github.com/KORSiRO/FLSUN-SR/tree/main/Firmware%20STOCK/Firmware%20v1.4)
 - [Pack Super Racer Nano v3 + Nano v3.1 + BTT TFT70 Guilouz du 14/07/2022](https://drive.google.com/file/d/1qiMYBQkulEuOpUn5UmmUM7sLWNKS4bEW/view)
-- [Firmware BTT TFT70 du 29/07/2022](https://github.com/Guilouz/BTT-TFT70-SuperRacer/releases/tag/29-07-2022)
+- [Firmware BTT TFT70 du 29/07/2022 Guilouz](https://github.com/Guilouz/BTT-TFT70-SuperRacer/releases/tag/29-07-2022)
 - [Firmware Marlin Foxies Nano v3 / BTT SKR 1.3](https://github.com/Foxies-CSTL/Marlin_2.0.x/tree/Firmwares/SR)
 
 <p align="center">  
