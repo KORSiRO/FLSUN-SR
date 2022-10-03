@@ -12,7 +12,7 @@ M109 S{material_print_temperature} ; Attente de la température de la buse (pour
 G28 ; Origines des axes  
 M420 S1 ; Activation du maillage ; Descente de la Hotend et passage à la position de départ  
 G1 Z150  
-G1 X-130 Y0 Z0.4 F3000 ; Extrude environ 40mm en imprimant un arc de 90 degrés  
+G1 X-130 Y0 Z0.4 F2500 ; Extrude environ 40mm en imprimant un arc de 90 degrés  
 G3 X0 Y-130 I130 Z0.3 E40 F1500 ; Rétraction et déplacement de la hotend vers le haut  
 G92 E0  
 G1 E-1.5 F1800  
