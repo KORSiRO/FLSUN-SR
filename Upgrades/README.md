@@ -1,4 +1,5 @@
 # 5015 FAN
+- [5015 Blower Fan Adapter](https://www.thingiverse.com/thing:6026346) / [Printables link](https://www.printables.com/model/481623-flsun-sr-5015-blower-fan-adapter-improved) fixes interference issues with previous adapter designs
 - [5015 adapter](https://www.thingiverse.com/thing:5029623)
 - [5015 adapter](https://www.printables.com/fr/model/89305-support-ventilo-5015-pour-flsun-sr)
 - [5015 Blower Fan Adapter](https://www.thingiverse.com/thing:4917075)
