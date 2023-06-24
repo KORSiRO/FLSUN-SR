@@ -1,0 +1,254 @@
+{
+    "auxiliary_fan": "0",
+    "bbl_calib_mark_logo": "1",
+    "bed_custom_model": "F:\\\\Impression 3D\\\\FLSUN SR\\\\PROFIL ORCASLICER\\\\SR.stl",
+    "bed_custom_texture": "",
+    "bed_exclude_area": [
+        "0x0"
+    ],
+    "before_layer_change_gcode": "",
+    "change_filament_gcode": ";FILAMENT_CHANGE\nM600",
+    "default_filament_profile": [],
+    "default_print_profile": "FLSUN SR - 0.20mm (KORSiRO)",
+    "deretraction_speed": [
+        "35"
+    ],
+    "extruder_clearance_height_to_lid": "140",
+    "extruder_clearance_height_to_rod": "36",
+    "extruder_clearance_radius": "65",
+    "extruder_colour": [
+        "#018001"
+    ],
+    "extruder_offset": [
+        "0x0"
+    ],
+    "fan_kickstart": "0",
+    "fan_speedup_overhangs": "1",
+    "fan_speedup_time": "0",
+    "from": "",
+    "gcode_flavor": "klipper",
+    "host_type": "octoprint",
+    "inherits": "FLSun V400 0.4 nozzle",
+    "layer_change_gcode": "",
+    "machine_end_gcode": "END_PRINT",
+    "machine_load_filament_time": "0",
+    "machine_max_acceleration_e": [
+        "2900",
+        "5000"
+    ],
+    "machine_max_acceleration_extruding": [
+        "2900",
+        "2000"
+    ],
+    "machine_max_acceleration_retracting": [
+        "2900",
+        "5000"
+    ],
+    "machine_max_acceleration_travel": [
+        "3000",
+        "3000"
+    ],
+    "machine_max_acceleration_x": [
+        "2900",
+        "2000"
+    ],
+    "machine_max_acceleration_y": [
+        "2900",
+        "2000"
+    ],
+    "machine_max_acceleration_z": [
+        "1500",
+        "200"
+    ],
+    "machine_max_jerk_e": [
+        "2.5",
+        "2.5"
+    ],
+    "machine_max_jerk_x": [
+        "9",
+        "9"
+    ],
+    "machine_max_jerk_y": [
+        "9",
+        "9"
+    ],
+    "machine_max_jerk_z": [
+        "3",
+        "0.4"
+    ],
+    "machine_max_speed_e": [
+        "30",
+        "25"
+    ],
+    "machine_max_speed_x": [
+        "200",
+        "200"
+    ],
+    "machine_max_speed_y": [
+        "200",
+        "200"
+    ],
+    "machine_max_speed_z": [
+        "20",
+        "12"
+    ],
+    "machine_min_extruding_rate": [
+        "0",
+        "0"
+    ],
+    "machine_min_travel_rate": [
+        "0",
+        "0"
+    ],
+    "machine_pause_gcode": "M25",
+    "machine_start_gcode": "START_PRINT BED_TEMP=[bed_temperature_initial_layer_single] EXTRUDER_TEMP=[nozzle_temperature_initial_layer]\nM104 S[nozzle_temperature_initial_layer]\nM190 S[bed_temperature_initial_layer_single]",
+    "machine_unload_filament_time": "0",
+    "max_layer_height": [
+        "0.2"
+    ],
+    "min_layer_height": [
+        "0.08"
+    ],
+    "name": "FLSUN SR - 0.4 nozzle (KORSiRO)",
+    "nozzle_diameter": [
+        "0.4"
+    ],
+    "nozzle_hrc": "0",
+    "nozzle_type": "hardened_steel",
+    "nozzle_volume": "0",
+    "print_host": "192.168.1.49",
+    "print_host_webui": "",
+    "printable_area": [
+        "129.505x11.3302",
+        "128.025x22.5742",
+        "125.57x33.6464",
+        "122.16x44.4626",
+        "117.82x54.9403",
+        "112.583x64.9999",
+        "106.49x74.5649",
+        "99.5857x83.5623",
+        "91.9238x91.9238",
+        "83.5623x99.5857",
+        "74.5649x106.49",
+        "65x112.583",
+        "54.9403x117.82",
+        "44.4626x122.16",
+        "33.6464x125.57",
+        "22.5742x128.025",
+        "11.3302x129.505",
+        "7.9602e-15x130",
+        "-11.3302x129.505",
+        "-22.5742x128.025",
+        "-33.6464x125.57",
+        "-44.4626x122.16",
+        "-54.9403x117.82",
+        "-64.9999x112.583",
+        "-74.5649x106.49",
+        "-83.5623x99.5857",
+        "-91.9238x91.9238",
+        "-99.5857x83.5623",
+        "-106.49x74.5649",
+        "-112.583x65",
+        "-117.82x54.9403",
+        "-122.16x44.4626",
+        "-125.57x33.6464",
+        "-128.025x22.5742",
+        "-129.505x11.3302",
+        "-130x1.59204e-14",
+        "-129.505x-11.3302",
+        "-128.025x-22.5742",
+        "-125.57x-33.6464",
+        "-122.16x-44.4626",
+        "-117.82x-54.9403",
+        "-112.583x-65",
+        "-106.49x-74.5649",
+        "-99.5857x-83.5623",
+        "-91.9238x-91.9238",
+        "-83.5623x-99.5857",
+        "-74.5649x-106.49",
+        "-65x-112.583",
+        "-54.9403x-117.82",
+        "-44.4626x-122.16",
+        "-33.6464x-125.57",
+        "-22.5742x-128.025",
+        "-11.3302x-129.505",
+        "-2.38806e-14x-130",
+        "11.3302x-129.505",
+        "22.5742x-128.025",
+        "33.6464x-125.57",
+        "44.4626x-122.16",
+        "54.9403x-117.82",
+        "64.9999x-112.583",
+        "74.5649x-106.49",
+        "83.5623x-99.5857",
+        "91.9238x-91.9238",
+        "99.5857x-83.5623",
+        "106.49x-74.5649",
+        "112.583x-64.9999",
+        "117.82x-54.9403",
+        "122.16x-44.4626",
+        "125.57x-33.6464",
+        "128.025x-22.5742",
+        "129.505x-11.3302",
+        "130x-3.18408e-14"
+    ],
+    "printable_height": "330",
+    "printer_model": "FLSun V400",
+    "printer_settings_id": "FLSUN SR - 0.4 nozzle (KORSiRO)",
+    "printer_technology": "FFF",
+    "printer_variant": "0.4",
+    "printhost_apikey": "",
+    "printhost_authorization_type": "key",
+    "printhost_cafile": "",
+    "printhost_password": "",
+    "printhost_port": "",
+    "printhost_ssl_ignore_revoke": "0",
+    "printhost_user": "",
+    "retract_before_wipe": [
+        "0%"
+    ],
+    "retract_length_toolchange": [
+        "2"
+    ],
+    "retract_restart_extra": [
+        "0"
+    ],
+    "retract_restart_extra_toolchange": [
+        "0"
+    ],
+    "retract_when_changing_layer": [
+        "1"
+    ],
+    "retraction_length": [
+        "1.2"
+    ],
+    "retraction_minimum_travel": [
+        "1"
+    ],
+    "retraction_speed": [
+        "35"
+    ],
+    "scan_first_layer": "0",
+    "silent_mode": "0",
+    "single_extruder_multi_material": "1",
+    "template_custom_gcode": ";FILAMENT_CHANGE\nM600",
+    "thumbnails": [
+        "500x500"
+    ],
+    "upward_compatible_machine": [],
+    "use_firmware_retraction": "0",
+    "use_relative_e_distances": "1",
+    "version": "1.6.0.0",
+    "wipe": [
+        "1"
+    ],
+    "wipe_distance": [
+        "2"
+    ],
+    "z_hop": [
+        "0.5"
+    ],
+    "z_hop_types": [
+        "Normal Lift"
+    ]
+}
